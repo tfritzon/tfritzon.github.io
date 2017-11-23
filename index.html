@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous"> -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>WebCW</title>
+    <script src="vue.min.js"></script>
+    <script src="web-audio-scheduler.min.js"></script>
+    <script src="vue.progress-bar.min.js"></script>
+  </head>
+  </body>
+  <div id="app">
+    <p style="height: 50px; font-size: 24pt;">{{ sending }}</p>
+    <textarea placeholder="type here ..."
+      cols="80" rows="10" v-on:keypress="morse" v-model="message" id="inp"></textarea><br />
+    <!-- <progress min="0" max="100" value="0" style="width: 660px;" id="prog"></progress> -->
+    <progress-bar v-model="progress" style="width: 660px;"></progress-bar>
+    <p>
+      <button v-on:click="send">SEND</button>
+      <button v-on:click="playpause">{{playstate}}</button>
+      <button v-on:click="clear">CLEAR</button>
+    </p>
+    <p>
+        <table width="700px">
+          <tr>
+            <td>Frequency:</td>
+            <td>
+              <datalist id="fticks">
+                <option value="220" label="220">
+                <option value="330">
+                <option value="440">
+                <option value="550">
+                <option value="660">
+                <option value="770">
+                <option value="880" label="880">
+                <option value="990">
+                <option value="1100">
+                <option value="1210">
+                <option value="1320">
+                <option value="1430">
+                <option value="1540">
+                <option value="1650">
+                <option value="1760" label="1760">
+              </datalist>
+              <font size="2">220 Hz</font>
+              <input type="range" min="220" max="1760" value="220" list="fticks" style="width: 400px" v-model="freq"/>
+              <font size="2">1760 Hz</font>
+            </td>
+            <td>
+              <span>{{freq}} Hz</span>
+            </td>
+          </tr>
+          <tr>
+            <td>Speed:</td>
+            <td>
+              <datalist id="sticks">
+                <option value="20" label="20">
+                <option value="30">
+                <option value="40" label="40">
+                <option value="50">
+                <option value="60" label="60">
+                <option value="70">
+                <option value="80" label="80">
+                <option value="90">
+                <option value="100" label="100">
+                <option value="110">
+                <option value="120" label="120">
+                <option value="130">
+                <option value="140" label="140">
+                <option value="150">
+                <option value="160" label="160">
+                <option value="170">
+                <option value="180" label="180">
+                <option value="190">
+                <option value="200" label="200">
+              </datalist>
+              <font size="2">20 t/min</font>
+              <input type="range" min="20" max="200" value="20" step="5" list="sticks" style="width: 400px"
+		     v-model.number="speed"/>
+              <font size="2">200 t/min</font>
+            </td>
+            <td>
+              <span>{{speed}} t/min</span>
+            </td>
+          </tr>
+          <tr>
+            <td>Farnsworth:</td>
+            <td>
+              <font size="2">20 t/min</font>
+              <input type="range" min="20" max="200" value="20" step="5" list="sticks" style="width: 400px"
+		     v-model.number="farnsworth"/>
+              <font size="2">200 t/min</font>
+            </td>
+            <td>
+              <span>{{farnsworth}} t/min</span>
+            </td>
+          </tr>
+        </table>
+      </p>
+  </div>
+  <script src="main.js"></script>
+  <body>
+</html>
