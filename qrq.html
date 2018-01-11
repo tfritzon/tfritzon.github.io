@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="qrq.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>WebCW</title>
+    <!-- <script src="https://unpkg.com/vue"></script> -->
+    <script src="lib/vue.min.js"></script>
+    <!-- <script src="https://mohayonao.github.io/web-audio-scheduler/build/web-audio-scheduler.min.js"></script> -->
+    <script src="lib/web-audio-scheduler.min.js"></script>
+    <script src="lib/vue.progress-bar.min.js"></script>
+    <script src="morsetab.js"></script>
+    <script src="calltab.js"></script>
+    <script>
+      Vue.config.keyCodes.f1 = 112;
+      Vue.config.keyCodes.f5 = 116;
+      Vue.config.keyCodes.f6 = 117;
+    </script>
+  </head>
+  </body>
+  <div id="app">
+    <p>
+      <span class="info">number: {{ index }}</span>
+      <span class="info" style="text-align: center;">correct: {{ points }}</span>
+      <span class="info" style="text-align: center;">incorrect: {{ (index-points) }}</span>
+      <span class="info" style="text-align: right;">speed: {{ speed }}</span>
+    </p>
+    <p>
+      <span class="callsign">{{ ccall }}</span>
+      <span class="callsign" v-bind:style="{ color: resultColor }">{{ ecall }}</span>
+    </p>
+    <p>
+      <input type="text" :value="inputs.toUpperCase()" style="font-size: 18pt;"
+	     id="inp"
+	     autofocus
+	     @keyup.enter="uinput"
+	     @keyup.esc="repeat"
+	     @keydown.f5="playpause"
+	     @keydown.f6="repeat"
+	     @input="inputs = $event.target.value.toUpperCase()">
+      <!-- <input placeholder="type here ..." size="20" style="font-size: 18pt;"
+	     v-on:keypress="uinput" v-model="inputs" id="inp" /> -->
+    </p>
+    <p>
+      <button v-on:click="playpause">{{playstate}}</button>
+    </p>
+    <p>
+      Speed:
+      <datalist id="sticks">
+        <option value="20" label="20">
+        <option value="30">
+        <option value="40" label="40">
+        <option value="50">
+        <option value="60" label="60">
+        <option value="70">
+        <option value="80" label="80">
+        <option value="90">
+        <option value="100" label="100">
+        <option value="110">
+        <option value="120" label="120">
+        <option value="130">
+        <option value="140" label="140">
+        <option value="150">
+        <option value="160" label="160">
+        <option value="170">
+        <option value="180" label="180">
+        <option value="190">
+        <option value="200" label="200">
+      </datalist>
+      <font size="2">20 t/min</font>
+      <input type="range" min="20" max="200" value="20" step="5"
+	     list="sticks" style="width: 400px"
+	     v-model.number="speed"/>
+      <font size="2">200 t/min</font>
+      <span>{{speed}} t/min</span>
+    </p>
+  </div>
+  <script src="qrq.js"></script>
+  <body>
+</html>

@@ -1,0 +1,15 @@
+.callsign {
+    height: 50px;
+    width: 300px;
+    font-size: 24pt;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.info {
+    height: 50px;
+    width: 150px;
+    font-size: 18pt;
+    display: inline-block;
+}
