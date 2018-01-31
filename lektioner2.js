@@ -27,21 +27,21 @@ mtLektioner = [
 {"sektion": "Grupp 3", "text":"=\nIZVY NXFR OHHT LAAR EXÖD NIYT YELO XNDH YLZZ TAFV RETR\nRVXÖ IOZH DTHN ZVLÖ ÖONF HÖEF FNXZ OZYI DYÖÖ VREY EFFN\nOIOL DTAA FDVA XDDH TLOZ TVRI AOFV VRRE ZYNO IXIX AYTA\nHIIX DHOE ="},
 {"sektion": "Grupp 4", "text":"=\nVZYE RIFT LDYX OZDÖ YEZD NTZR XHIL ÖLEZ NVXH OFTE LFZN\nVEDY TIRR YÖHN AXID DELY IRFV ANÖH ZLTÖ ROED HRHI HADE\nFNFZ ATÖZ IYRX DVAT FXNA FTVO XHYL ZOAI EÖDV TYNR ÖDXO\nHVLE XIÖV ="},
 {"sektion": "Grupp 5", "text":"=\nÖAIE YORN ZDVX FELT HXFX DVIL RZVY VYXT OZDL TFEA LÖFF\nZDED XRYO NIXH AEOÖ LRYN DIAV ÖHNO YÖTR IFÖE HHAD RXÖI\nNTFI EDHY INLZ ARXZ VYOV ATHZ EVZF XLTH OÖNR YADI HOTX\nTLRA FNVÖ ="},
-{"sektion": "Grupp 6", "text":"=\nFYRAR VID RÖDVATTNET AVTALAR TID FÖRE LÖRDA , FYLL\nDENNA RAD TILL / YTTRE / RANDEN , FÖRORENADE DÖRRARNA\nTILL VINTERDALEN ? FÖRHYRDA RIVIERAVAL RÖR INTE EN\nVAN TAXERARE ? HYLLOR AV RÖDOXEL & TILL HILLARED TAXI ="},
-{"sektion": "Grupp 7", "text":"=\n,,? &&/ /,, ??/ /&& ,?, //? &&? ,/, //? &,&\n?/? &/& &,, ,?, &/& /?? /&& ,?, &// ,&& ?/?\n,/, &?& ?,? ,&, /&/ ??, &?& ,,/ ,?, ,&& /,/\n?,? &/& ,,? //& &&/ ??, &/& ="},
-{"sektion": "Grupp 8", "text":"=\nVZYE RIFT LDYX OZDÖ YEZD NTZR XHIL ÖLEZ NVXH OFTE LFZN\nVEDY TIRR YÖHN AXID DELY IRFV ANÖH ZLTÖ ROED HRHI HADE\nFNFZ ATÖZ IYRX DVAT FXNA FTVO XHYL ZOAI EÖDV TYNR ÖDXO\nHVLE XIÖV ="},
-{"sektion": "Grupp 9", "text":"=\nIZVY NXFR OHHT LAAR EXÖD NIYT YELO XNDH YLZZ TAFV RETR\nRVXÖ IOZH = +"}
+{"sektion": "Klartext", "text":"=\nFYRAR VID RÖDVATTNET AVTALAR TID FÖRE LÖRDA , FYLL\nDENNA RAD TILL / YTTRE / RANDEN , FÖRORENADE DÖRRARNA\nTILL VINTERDALEN ? FÖRHYRDA RIVIERAVAL RÖR INTE EN\nVAN TAXERARE ? HYLLOR AV RÖDOXEL & TILL HILLARED TAXI ="},
+{"sektion": "Grupp 6", "text":"=\n,,? &&/ /,, ??/ /&& ,?, //? &&? ,/, //? &,&\n?/? &/& &,, ,?, &/& /?? /&& ,?, &// ,&& ?/?\n,/, &?& ?,? ,&, /&/ ??, &?& ,,/ ,?, ,&& /,/\n?,? &/& ,,? //& &&/ ??, &/& ="},
+{"sektion": "Grupp 7", "text":"=\nVZYE RIFT LDYX OZDÖ YEZD NTZR XHIL ÖLEZ NVXH OFTE LFZN\nVEDY TIRR YÖHN AXID DELY IRFV ANÖH ZLTÖ ROED HRHI HADE\nFNFZ ATÖZ IYRX DVAT FXNA FTVO XHYL ZOAI EÖDV TYNR ÖDXO\nHVLE XIÖV ="},
+{"sektion": "Grupp 8", "text":"=\nIZVY NXFR OHHT LAAR EXÖD NIYT YELO XNDH YLZZ TAFV RETR\nRVXÖ IOZH = +"}
 ]},
 {"lektion": "14", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nIZVY NXFR OHHT LAAR EXÖD NIYT YELO XNDH YLZZ TAFV RETR\nRVXÖ IOZH DTHN ZVLÖ ÖONF HÖEF FNXZ OZYI DYÖÖ VREY EFFN\nOIOL DTAA FDVA XDDH TLOZ TVRI AOFV VRRE ZYNO IXIX AYTA\nHIIX DHOE ="},
-{"sektion": "Grupp 2", "text":"=\nLOVAR EDER RYTANDE LEDARE NYA FINA FÖRDELAR ELLER\nHETA ÖRON ? FYLLAN VAR TILL / NIX / NYTTA , TVI VALE ?\nRÖDE HANEN DARRAR VID FOTEN & LANDET HYLLAR ORVAR\nLENNARTZ , DÖTTRARNA OVANA VID TADELFRI FLIT AV LATA\nTROLL ="},
-{"sektion": "Grupp 3", "text":"=\nVZYE RIFT LDYX OZDÖ YEZD NTZR XHIL ÖLEZ NVXH OFTE LFZN\nVEDY TIRR YÖHN AXID DELY IRFV ANÖH ZLTÖ ROED HRHI HADE\nFNFZ ATÖZ IYRX DVAT FXNA FTVO XHYL ZOAI EÖDV TYNR ÖDXO\nHVLE XIÖV ="},
+{"sektion": "Klartext", "text":"=\nLOVAR EDER RYTANDE LEDARE NYA FINA FÖRDELAR ELLER\nHETA ÖRON ? FYLLAN VAR TILL / NIX / NYTTA , TVI VALE ?\nRÖDE HANEN DARRAR VID FOTEN & LANDET HYLLAR ORVAR\nLENNARTZ , DÖTTRARNA OVANA VID TADELFRI FLIT AV LATA\nTROLL ="},
+{"sektion": "Grupp 2", "text":"=\nVZYE RIFT LDYX OZDÖ YEZD NTZR XHIL ÖLEZ NVXH OFTE LFZN\nVEDY TIRR YÖHN AXID DELY IRFV ANÖH ZLTÖ ROED HRHI HADE\nFNFZ ATÖZ IYRX DVAT FXNA FTVO XHYL ZOAI EÖDV TYNR ÖDXO\nHVLE XIÖV ="},
 {"sektion": "Kontrollprov 3", "text":"=\nÖAIE YORN ZDVX FELT HXFX DVIL RZVY VYXT OZDL TFEA LÖFF\nZDED XRYO NIXH AEOÖ LRYN DIAV ÖHNO YÖTR IFÖE HHAD RXÖI\nNTFI EDHY INLZ ARXZ VYOV ATHZ =\n/?&, /,?/ &,,& /&,? ?&,? /&?/ ?&/, ="},
 {"sektion": "Nya tecken", "text":"----- ----- ----- ----- -----\n_____ _____ _____ _____ _____"},
-{"sektion": "Grupp 4", "text":"=\n----- _____ ----_ ___-- --___ _---_ __--- ___--\n--___ --__- -__-- __--_ _--__ --__- _-_-- _-_-_ ="},
-{"sektion": "Grupp 5", "text":"=\n---- ____ --__ __-- --// --?? --&& --,, __//\n__?? __&& __,, //-- &&-- ??__ ,,__ --?? --,,\n__// __&& --&& __?? ,,-- &&__ __,, --// --??\n//__ ,,__ &&-- ="},
-{"sektion": "Grupp 6", "text":"=\n--// __&& ??__ /,/, -__- _&_& -,-, -?-? _//_\n_-_- ,/,/ -&&- _??_ /--/ ,_,_ -&-& -__- //--\n_?_? ,__, -?-? -&&- __?? /--/ _,_, -&-& _--_\n?,?, ?-?- &_&_ ="},
-{"sektion": "Grupp 7", "text":"=\n__? --, /&/ ,__ _-- &_& -,- ?-? _/_ -&- _,_\n??- &__ --, /?/ _-- = +"}
+{"sektion": "Grupp 3", "text":"=\n----- _____ ----_ ___-- --___ _---_ __--- ___--\n--___ --__- -__-- __--_ _--__ --__- _-_-- _-_-_ ="},
+{"sektion": "Grupp 4", "text":"=\n---- ____ --__ __-- --// --?? --&& --,, __//\n__?? __&& __,, //-- &&-- ??__ ,,__ --?? --,,\n__// __&& --&& __?? ,,-- &&__ __,, --// --??\n//__ ,,__ &&-- ="},
+{"sektion": "Grupp 5", "text":"=\n--// __&& ??__ /,/, -__- _&_& -,-, -?-? _//_\n_-_- ,/,/ -&&- _??_ /--/ ,_,_ -&-& -__- //--\n_?_? ,__, -?-? -&&- __?? /--/ _,_, -&-& _--_\n?,?, ?-?- &_&_ ="},
+{"sektion": "Grupp 6", "text":"=\n__? --, /&/ ,__ _-- &_& -,- ?-? _/_ -&- _,_\n??- &__ --, /?/ _-- = +"}
 ]},
 {"lektion": "15", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nVZYE RIFT LDYX OZDÖ YEZD NTZR XHIL ÖLEZ NVXH OFTE LFZN\nVEDY TIRR YÖHN AXID DELY IRFV ANÖH ZLTÖ ROED HRHI HADE\nFNFZ ATÖZ IYRX DVAT FXNA FTVO XHYL ZOAI EÖDV TYNR ÖDXO\nHVLE XIÖV ="},
@@ -63,8 +63,8 @@ mtLektioner = [
 {"sektion": "Grupp 5", "text":"=\n--// __&& ??__ /,/, -__- _&_& -,-, -?-? _//_\n_-_- ,/,/ -&&- _??_ /--/ ,_,_ -&-& -__- //--\n_?_? ,__, -?-? -&&- __?? /--/ _,_, -&-& _--_\n,?,? ?-?- &_&_ ="},
 {"sektion": "Grupp 6", "text":"=\nDYDY FBFB VHVH VÄVÄ BYBY IFIF RARA BÄBÄ ÄNÄN ÖDÖD FYFY\nERER ÄLÄL BZBZ YOYO ÖFÖF HXHX ÄBÄB DVDV RBRB TYTY FÄFÄ\nLZLZ BÖBÖ ININ HRHR ÄYÄY ZFZF XDXD YBYB HÄHÄ ÖRÖR FEFE\nBDBD ÄYÄY AVAV LÖLÖ FRFR BÄBÄ DTDT YHYH XBXB ÄZÄZ FOFO ="},
 {"sektion": "Grupp 7", "text":"=\nFÖÖF HHXX ÄZZÄ LYYL BDDB FFNN IBBI ÖÄÖÄ RYRY BFFB DBDB\nÄOÄO FYFY YRYR TBBT RRÖÖ ZYYZ LFLF DIID VBBV EÄÄE RAAF\nYHYH XÄÄX BBHH ÖÖBB RYRY DÄDÄ RRNN YFYF HBBH AYYA DLDL\nÄFFÄ VZVZ BXXB YÄÄY ÖHÖH FRRF TÄÄT EEBB VHHV OFOF ÄDDÄ ="},
-{"sektion": "Grupp 8", "text":"=\nBÄTTRE ANVÄNDA VALLAR VID EBBETORV ANV AV VILDA\nHILDA , NÄTTRABY VOLLYBOLLAVD ÖVERTAR VINBÄRET AV\nHARVEN ="},
-{"sektion": "Grupp 9", "text":"=\nÄÄÖA FFDN TYYR ZLBB ÄDEÄ FYHY ZIFF BXBD VHÖH YRAY ÄFHF\nYBBÖ OÄDÄ VYYZ ÖNAN TBHB = +"}
+{"sektion": "Klartext", "text":"=\nBÄTTRE ANVÄNDA VALLAR VID EBBETORV ANV AV VILDA\nHILDA , NÄTTRABY VOLLYBOLLAVD ÖVERTAR VINBÄRET AV\nHARVEN ="},
+{"sektion": "Grupp 8", "text":"=\nÄÄÖA FFDN TYYR ZLBB ÄDEÄ FYHY ZIFF BXBD VHÖH YRAY ÄFHF\nYBBÖ OÄDÄ VYYZ ÖNAN TBHB = +"}
 ]},
 {"lektion": "17", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nFFRR OOÄÄ HHFF LLBB FFYY AADD XXÄÄ NNYY VVBB YYÄÄ IITT\nZZHH FFÖÖ EERR BBYY ÄÄFF RRLL DDBB ÖÖYY HHÄÄ BBFF YYRR\nDDVV ÄÄOO BBZZ YYHH ÄÄAA BBXX ÄÄYY FFÄÄ RRDD TTEE ÖÖNN\nBBFF YYDD RRBB LLBB ÄÄVV ÖÖII FFDD HHBB XXÄÄ XXÖÖ ZZVV ="},
@@ -73,8 +73,8 @@ mtLektioner = [
 {"sektion": "Grupp 4", "text":"=\nRRÄB YHÖX FYZF BBDÄ ÄÄVD BDYB LÄFF ÄXHÄ EFRÖ YYÄB NDIR\nBLOY RVDV ÖBBH FÄXX RVYH AÖNB ÄFFY HHLD YBYÄ XFÄT DRZY\nBLÖN HIFI ÄZBÄ OYRR VDFÖ IEHY NÄDF RAHB BYYT ÖZÄF TBEH\nFFOD VÖAÄ BBEZ YRAY ÄTÖZ FABL IÄRE DYTÖ XOFB LHÄÄ ÖFYN ="},
 {"sektion": "Grupp 5", "text":"=\n__? --, /&/ ,__ _-- &_& -,- ?-? _/_ -&- _,_\n??- &__ --, /?/ _-- _&_ -,- &&, _,, --& //-\n?__ -&- _,_ &// -_- ?/? _,_ -,- &?& _/_ --?\n/,/ _-_ ,-, ?,? _&_ /-/ ="},
 {"sektion": "Grupp 6", "text":"=\n/_& -,- _/_ ?-& _-, /__ &?- ,&- -_/ _-_ -?,\n?/- _,& --_ /_, &-/ _-? _&_ /_- &/, -,_ -/-\n_&? ,-/ _&- /,_ -&_ ?-- _/_ &/- /_& -_? &-_\n-?/ _/_ &?- /_? -_? _-& ="},
-{"sektion": "Grupp 7", "text":"=\nEN TFN ÄR / ALLTID / REDO , TRFDET LÄR VARA BÄTTRE ÄN\nDÖVA NATTFLY & TRO DET ? NI VET INTE _ INTE NÄR VI HÖR\nER ? RÄDDA DINA ÖRON FÖR RADIOTELEFONI , ANVÄNDER\nDU - VI BRÄNNVIN BÄR DIN BIL & BLI BÄVER FÄLL TRÄD ="},
-{"sektion": "Grupp 8", "text":"=\n\n/,_ -?_ &/_ ?-, _&- &_/ ,?_ = +"}
+{"sektion": "Klartext", "text":"=\nEN TFN ÄR / ALLTID / REDO , TRFDET LÄR VARA BÄTTRE ÄN\nDÖVA NATTFLY & TRO DET ? NI VET INTE _ INTE NÄR VI HÖR\nER ? RÄDDA DINA ÖRON FÖR RADIOTELEFONI , ANVÄNDER\nDU - VI BRÄNNVIN BÄR DIN BIL & BLI BÄVER FÄLL TRÄD ="},
+{"sektion": "Grupp 7", "text":"=\n\n/,_ -?_ &/_ ?-, _&- &_/ ,?_ = +"}
 ]},
 {"lektion": "18", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nBBYY ÖVVÖ FFÄÄ DLLD YHYH ÄBBÄ RRYY EÖEÖ ÄFÄF YDDY BHHB\nZRRZ FYFY NÄNÄ DADA ÖÖFF ÄÄLL TYYT BRBR VOVO XXBB FZZF\nÄBÄB HLLH RFRF YÄÄY IXIX DDBB OAOA ÖYÖY TÄTÄ BFFB ZDZD\nRNNR VFVF YYXX HDHD ÄÄBB FFYY ÖÖRR IDDI BFBF ÄLÄL HBHB ="},
@@ -115,7 +115,7 @@ mtLektioner = [
 {"sektion": "Grupp 4", "text":"=\n_,_ ../ &-- __? ?.. --/ .&. ??, /&/ .-- _?_\n.,. -/- _._ &&. ,_, ?,? .., /&/ _-_ &,& .,.\n?-? __/ ?&? -,- .?. -&- &_& /./ -?- ._. /./\n_,_ -&- ,., ./. _?_ &/& ,_, ="},
 {"sektion": "Grupp 5", "text":"=\n?._ /&/ ._. --, _?. /_, -.& _.? &,. &_- ./.\n?-_ &./ -_- &,. -?, _.- /,? &_, ./_ ?,- -,&\n.&. _?/ &-, ._. -?- /.? ?,_ &/. _-, .&? -_-\n?,/ -_. /,? -&_ .&, _/& &., ="},
 {"sektion": "Grupp 6", "text":"=\nOXHY ADVS LÖBD SÄNT BZRI FESH YOBV TAXR HYLZ DFON RIAS\nÄTEZ BVZO SHÖL ORSA NDFE ZBIÄ LÄVS XBTÖ ENHF AZRI ÖÄDV\nYXBT ILYÖ PEZH FONR VALD TÖXÄ SFEY ÄIÖZ DVPN HYIE STOL\nRPAX NSFV ="},
-{"sektion": "Grupp 7", "text":"=\nFLÄTAT BRÖD DOPPAS I SPIRAL . ROSA PANTERN BÄR\nSÄTERSTASS I VÄNSTER TASS . BÄTTRE SENT ÄN ALLTID .\nEVELYN TÄNDER NÄR SPANAREN TASSAR . HÄR ÄR BREVET\nNI RITADE . BADBYXOR AV BÄVERPÄLS ÄR SNOBBERI ="},
+{"sektion": "Klartext", "text":"=\nFLÄTAT BRÖD DOPPAS I SPIRAL . ROSA PANTERN BÄR\nSÄTERSTASS I VÄNSTER TASS . BÄTTRE SENT ÄN ALLTID .\nEVELYN TÄNDER NÄR SPANAREN TASSAR . HÄR ÄR BREVET\nNI RITADE . BADBYXOR AV BÄVERPÄLS ÄR SNOBBERI ="},
 {"sektion": "Grupp 8", "text":"=\n.?? ,-, /&_ .?. -_, &-& ._. -/_ ?.? -,/ _&-\n?_, &.- ,?_ /-/ &_& -_? ,/, _-. ?-/ .&. ,_-\n-?. /-& .,_ -.? &/, -_& -/. _&- ,./ ?-_ &..\n/,_ _&. -?_ _/- ._? ._, = +"}
 ]},
 {"lektion": "22", "sektioner": [
@@ -124,20 +124,20 @@ mtLektioner = [
 {"sektion": "Grupp 3", "text":"=\n?._ /&/ ._. --, _?. /_, -.& _,? &,. &_- ./.\n?-_ &./ -_- &,. -?, _.- /,? &_, ./_ ?,- -,&\n.&. _?/ &-, ._. -?- /.? ?,_ &/. _-, .&? -_-\n?,/ -_. /,? -&_ .&, _/& &., ="},
 {"sektion": "Grupp 4", "text":"=\nIRVS ZSEA HFDL SXRV PÖTO NIÄY AZFY LPEÖ ÄHXD YSIR VAZT\nONÖX DLHI RVPE XPBF TYNÄ IOAZ ÖDLB FTVÄ EXHN SROL ZÖPV\nYEDA SIXH NZTO VFÖP LYRS ABÄE ONBT HPYX BLSD EOZF ÄANR\nDÄIÖ THFB ="},
 {"sektion": "Kontrollprov 4", "text":"=\nOXHY ADVS LÖBD SÄNT BZRI FESH YOBV TAXR HYLZ DFON RIAS\nÄTEZ BVZO SHÖL ORSA NDFE ZBIÄ LÄVS XBTÖ ENHF AZRI ÖÄDV\nYXBT ILYÖ PEZH FONR =\n/&-_ ?&.. &?/, &-_? ,_./ /?-. ,/_. ?-,. &,-_ ="},
-{"sektion": "Grupp 5", "text":"=\nBÄR DIN STRIDSSELE LEENDE . TORSTEN TIPPAR FÖR\nFYRTIO SPÄNN . BÄTTRE ÄN NIO RÄTT BLIR DET TYVÄRR\nINTE . BÄR SPORTVANTAR VID HANTERANDE AV BÄRFISAR .\nIRRITAN POLEX TYVÄRR FELSTAVAD LOPPSORT . SITT STILL ="},
-{"sektion": "Grupp 6", "text":"=\n/_/_ &&-- ??.. _,,_ //&& -.-. ,??, &__& /,,/\n--?? ._._ &,&, ?//? ,-,- _/_/ ?&?& ,.., -/-/\n,_,_ .?.? &/&/ _,_, --// &.&. _??_ -.-. /./.\n?&&? -_-_ ,.,. /??/ &-&- ="},
-{"sektion": "Grupp 7", "text":"=\n-&& //_ ,., &?? -_- /,/ ??_ -.- &.& /_/ ,-,\n?.? -_- &/& .?. /__ ,-, ?&? /,/ -.- ??, _._\n&_& ?// ,,- .&. _/_ ?,? /?/ -.- &_& = +"}
+{"sektion": "Klartext", "text":"=\nBÄR DIN STRIDSSELE LEENDE . TORSTEN TIPPAR FÖR\nFYRTIO SPÄNN . BÄTTRE ÄN NIO RÄTT BLIR DET TYVÄRR\nINTE . BÄR SPORTVANTAR VID HANTERANDE AV BÄRFISAR .\nIRRITAN POLEX TYVÄRR FELSTAVAD LOPPSORT . SITT STILL ="},
+{"sektion": "Grupp 5", "text":"=\n/_/_ &&-- ??.. _,,_ //&& -.-. ,??, &__& /,,/\n--?? ._._ &,&, ?//? ,-,- _/_/ ?&?& ,.., -/-/\n,_,_ .?.? &/&/ _,_, --// &.&. _??_ -.-. /./.\n?&&? -_-_ ,.,. /??/ &-&- ="},
+{"sektion": "Grupp 6", "text":"=\n-&& //_ ,., &?? -_- /,/ ??_ -.- &.& /_/ ,-,\n?.? -_- &/& .?. /__ ,-, ?&? /,/ -.- ??, _._\n&_& ?// ,,- .&. _/_ ?,? /?/ -.- &_& = +"}
 ]},
 {"lektion": "23", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nIRVS ZSEA HFDL SXRV PÖTO NIÄY AZFY LPEÖ ÄHXD YSIR VAZT\nONÖX DLHI RVPE XPBF TYNÄ IOAZ ÖDLB FTVÄ EXHN SROL ZÖPV\nYEDA SIXH NZTO VFÖP LYRS ABÄE ONBT HPYX BLSD EOZF ÄANR\nDÄIÖ THFB ="},
 {"sektion": "Grupp 2", "text":"=\n,?_ &-/ .-? _,- /&. ?_, ./- ?_& /,. &_? &/,\n-., ?_& ,-/ ,.- &?_ .&/ ,?_ -/. &_? -,. /&_\n,&- ./, ?_& -/? /,. &,? ?_- ,/. ?&_ -/. _,&\n.-/ _?- /.? &_- ?,/ .&- .,_ -/. ?_& ="},
-{"sektion": "Grupp 3", "text":"=\nBÄR DIN STRIDSSELE LEENDE . TORSTEN TIPPAR FÖR\nFYRTIO SPÄNN . BÄTTRE ÄN NIO RÄTT BLIR DET TYVÄRR\nINTE . BÄR SPORTVANTAR VID HANTERANDE AV BÄRFISAR .\nIRRITAN POLEX TYVÄRR FELSTAVAD LOPPSORT . SITT STILL ="},
+{"sektion": "Klartext", "text":"=\nBÄR DIN STRIDSSELE LEENDE . TORSTEN TIPPAR FÖR\nFYRTIO SPÄNN . BÄTTRE ÄN NIO RÄTT BLIR DET TYVÄRR\nINTE . BÄR SPORTVANTAR VID HANTERANDE AV BÄRFISAR .\nIRRITAN POLEX TYVÄRR FELSTAVAD LOPPSORT . SITT STILL ="},
 {"sektion":"Nya tecken", "text":"UUUUU UUUUU UUUUU UUUUU UUUUU\nQQQQQ QQQQQ QQQQQ QQQQQ QQQQQ"},
-{"sektion": "Grupp 4", "text":"=\nUUUUU QQQQQ UUUUQ QQQUU UUQQQ QUUUQ QQUUU QQQUU UQQQU\nUQQUU QQUUQ QUUQQ UUQQU UQQUQ QUUQU QUQUQ ="},
-{"sektion": "Grupp 5", "text":"=\nPPUU BBQQ QQÄÄ UUSS RRUU QQFF YYQQ UUPP QQBB SSUU UUDD\nRRQQ QQYY UUÄÄ QQPP ÄÄUU UUBB QQSS UUDD FFQQ YYUU UUSS\nPPQQ BBUU QQDD UURR FFUU BBQQ QQSS ÄÄUU UUPP FFQQ ÄÄQQ\nUUYY QQPP ="},
-{"sektion": "Grupp 6", "text":"=\nSSUU UUQQ QQPP BBQQ UUFF UUQQ QQÄÄ YYSS BBRR PPUU DDUU\nQQQQ ÄÄFF UUUU QQSS PPQQ BBUU UUQQ YYBB UUÄÄ RRDD SSPP\nUUQQ QQUU FFBB YYQQ RRQQ ÄÄUU QQSS QQPP DDFF YYUU UUQQ\nQQÄÄ UUSS ="},
-{"sektion": "Grupp 7", "text":"=\nQQYY UUFF PQQP RRUU QSSQ ÄUUÄ PDDP UUQQ UBUB QFQF UÄÄU\nSQSQ QUQU YRRY UDDU QPPQ PQPQ UFUF QBQB DUDU QQÄÄ URUR\nUQQU QSSQ PPUU QÄQÄ RQRQ UYUY QQFF BUUB YQQY USSU DBDB\nQUQU FYFY ="},
-{"sektion": "Grupp 8", "text":"=\nQSSQ UÄÄU PQPQ UQQU QQFF FYFY RRUU QFQF QPPQ URUR UYUY\nQUQU PQQP UBUB UDDU QQÄÄ RQRQ DBDB UUFF UUQQ YRRY DUDU\nQÄQÄ USSU QQYY PDDP QUQU QBQB PPUU YQQY ÄUUÄ SQSQ UFUF\nQSSQ BUUB = +"}
+{"sektion": "Grupp 3", "text":"=\nUUUUU QQQQQ UUUUQ QQQUU UUQQQ QUUUQ QQUUU QQQUU UQQQU\nUQQUU QQUUQ QUUQQ UUQQU UQQUQ QUUQU QUQUQ ="},
+{"sektion": "Grupp 4", "text":"=\nPPUU BBQQ QQÄÄ UUSS RRUU QQFF YYQQ UUPP QQBB SSUU UUDD\nRRQQ QQYY UUÄÄ QQPP ÄÄUU UUBB QQSS UUDD FFQQ YYUU UUSS\nPPQQ BBUU QQDD UURR FFUU BBQQ QQSS ÄÄUU UUPP FFQQ ÄÄQQ\nUUYY QQPP ="},
+{"sektion": "Grupp 5", "text":"=\nSSUU UUQQ QQPP BBQQ UUFF UUQQ QQÄÄ YYSS BBRR PPUU DDUU\nQQQQ ÄÄFF UUUU QQSS PPQQ BBUU UUQQ YYBB UUÄÄ RRDD SSPP\nUUQQ QQUU FFBB YYQQ RRQQ ÄÄUU QQSS QQPP DDFF YYUU UUQQ\nQQÄÄ UUSS ="},
+{"sektion": "Grupp 6", "text":"=\nQQYY UUFF PQQP RRUU QSSQ ÄUUÄ PDDP UUQQ UBUB QFQF UÄÄU\nSQSQ QUQU YRRY UDDU QPPQ PQPQ UFUF QBQB DUDU QQÄÄ URUR\nUQQU QSSQ PPUU QÄQÄ RQRQ UYUY QQFF BUUB YQQY USSU DBDB\nQUQU FYFY ="},
+{"sektion": "Grupp 7", "text":"=\nQSSQ UÄÄU PQPQ UQQU QQFF FYFY RRUU QFQF QPPQ URUR UYUY\nQUQU PQQP UBUB UDDU QQÄÄ RQRQ DBDB UUFF UUQQ YRRY DUDU\nQÄQÄ USSU QQYY PDDP QUQU QBQB PPUU YQQY ÄUUÄ SQSQ UFUF\nQSSQ BUUB = +"}
 ]},
 {"lektion": "24", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nSSUU UUQQ QQPP BBQQ UUFF UUQQ QQÄÄ YYSS BBRR PPUU DDUU\nQQQQ ÄÄFF UUUU QQSS PPQQ BBUU UUQQ YYBB UUÄÄ RRDD SSPP\nUUQQ QQUU FFBB YYQQ RRQQ ÄÄUU QQSS QQPP DDFF YYUU UUQQ\nQQÄÄ UUSS ="},
@@ -146,8 +146,8 @@ mtLektioner = [
 {"sektion": "Grupp 4", "text":"=\n,/. ?-_ ?,. /_& ?-. /-, _.& /-. &/, ._/ -,_\n-.? &_? -/_ ?.? &-, &., ?/& &_- &.? &,& ,-?\n,?. -_/ _./ .,- &_? /.& /-_ &?& ./- &,/ _&,\n&,_ -/. -,_ ,_. ?-/ ?_? ,?/ _,- .?/ ="},
 {"sektion": "Grupp 5", "text":"=\nQÄQÄE NSUSU PFFPI BHHBÖ OQUQU SYYÄS LPEPL ÄFÄNF UVPUV\nBSOSB YIQYQ AÖPAP XFTFX BUSUB NQÄQÄ PYPZZ RSLSR UDZUD\nULBBU SPQSP FÄYFY QLUUQ SPTPS QUFFQ SITSI OBQOQ YLLYE\nUPUÄP VQSVQ RQSRS BEÄÄB PXPTX ZUZPU SYQYQ AÖNAÖ DHFDH ="},
 {"sektion":"Grupp 6", "text":"=\nUQQUP YSSTY EBQQB PÄPÄO UNXUX SQÖSQ BFBFI LLPOP TYQYQ\nIUÖIU ÄSÄNS RVUVR QAQAU OFUUF IEYYE ÄSUSÄ PHSHP XDLXD\nBPSPB FQYQF ULZZU SRRSX DBFDB SVPSP DÖQQD YFFÄY PUSPS\nNÄNEÄ QOAAQ UBULB FUPFP ÄYQÄY TZZTÖ HUSHU QPQBP RVZVR ="},
-{"sektion": "Grupp 7", "text":"=\nRÖNNERDAL HOPPAR ÄVEN UR SOFFAN . TARZAN SUPER SADE\nAPORNA . VÄRDENS ÄNDA FINNS INTE I TROSA . DÄR FINNS\nI STÄLLET VÄRDINNANS . SNUBBLA INTE VID PASSERANDE\nAV HÖRTELEFONSLADDEN . LUTA ER INTE ="},
-{"sektion": "Grupp 8", "text":"=\nNNUU SFSF BBXX PPQQ ZTZT ÄÄYY OUUO VLVL EBEB FQQF ÄSÄS\nUUHH AAPP YRRY SQQS FXFX = +"}
+{"sektion": "Klartext", "text":"=\nRÖNNERDAL HOPPAR ÄVEN UR SOFFAN . TARZAN SUPER SADE\nAPORNA . VÄRDENS ÄNDA FINNS INTE I TROSA . DÄR FINNS\nI STÄLLET VÄRDINNANS . SNUBBLA INTE VID PASSERANDE\nAV HÖRTELEFONSLADDEN . LUTA ER INTE ="},
+{"sektion": "Grupp 7", "text":"=\nNNUU SFSF BBXX PPQQ ZTZT ÄÄYY OUUO VLVL EBEB FQQF ÄSÄS\nUUHH AAPP YRRY SQQS FXFX = +"}
 ]},
 {"lektion": "25", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nNNUU SFSF BBXX PPQQ ZTZT ÄÄYY OUUO VLVL EBEB FQQF ÄSÄS\nUUHH AAPP YRRY SQQS FXFX UIUI PBBP DÖDÖ YSYS QQUU BTBT\nNPPN QÄQÄ USSU VVBB EYYE PUPU LFFL UQQU HAHA SPSP ÄBBÄ\nQYQY ZOZO XÄÄX PPSS IQIQ FFUU VRVR BDBD UUPP SSQQ ÖÄÖÄ ="},
@@ -155,19 +155,19 @@ mtLektioner = [
 {"sektion": "Grupp 3", "text":"=\nSÄÖSN QQFPB LUUEH VOSST IPQPA YXUYZ QNQFR DÄBÄL SUYVS\nLSPOP UYIAU ZBRZA ÖFSÄF PLDPQ BHQBE YUPQU VTSÄS DPPYX\nRNYBY QUFHQ VYPPS UOFFÄ UITUA RZSXS RPFPÖ DLQÄQ VUFBU\nSEQSX PQPYU ÄBDÄP ÖQÄQN HFBFR UPSUE BSYOS AIQTQ XUÄUZ ="},
 {"sektion": "Grupp 4", "text":"=\nNSQÄÖ FAYUB BSSPX LDXQU EYVYP UBTSQ ZQDIÄ SFAXS QUBUO\nPLSPY ÄQRFD HSUBU YNYAF FPQTB UÄSUF QZLVP PEÄSX BYVQU\nUHQRI FZPFV OBZÄS SUYNQ XPBDP ÖSUYU QÖPLP IOHBU ÄFSPT\nÄQÖÄR VXESY PÄQZN RFNQA SPFHS TIÄQB YUPRL SVOEQ DUUPZ ="},
 {"sektion": "Grupp 5", "text":"=\n._/_ -?-/ ,&/, &.?. ,-_- &&./ _-.- ,.,? _-_/\n.&?& -,-/ _/?/ ,./, ?&?_ ?/.& /,?/ -,-& ?_?.\n_,-_ ,&,/ .&_& /.?/ -_&- ,/.. ?&_& -,-/ ./&/\n_,?, ?.-? ,,._ &-/& _.?? ="},
-{"sektion": "Grupp 6", "text":"=\nRÖNNERDAL HOPPAR ÄVEN UR SOFFAN . TARZAN SUPER SADE\nAPORNA . VÄRDENS ÄNDA FINNS INTE I TROSA . DÄR FINNS\nI STÄLLET VÄRDINNANS . SNUBBLA INTE VID PASSERANDE\nAV HÖRTELEFONSLADDEN . LUTA ER INTE ="},
-{"sektion": "Grupp 7", "text":"=\nPPQQT ÄUUEÄ HIFIF OSBSB ZPNPZ QYYQH VVUTU ÄÄSÖS FYPFP\nXBPXB QUOQU SHDDS PAPÖA SQFQF TRTSR USPUS NYBYB LQULQ\nEÄFÄF UPLLP SYYSN IZQZQ UBÖBU ÄÄPPO ÖXSXS QAAQH FUFÄU\nVVPQP DDSOS BYEYB VNVUU RPFPR BÄQQÄ XYIXY ZLELZ USQSU = +"}
+{"sektion": "Klartext", "text":"=\nRÖNNERDAL HOPPAR ÄVEN UR SOFFAN . TARZAN SUPER SADE\nAPORNA . VÄRDENS ÄNDA FINNS INTE I TROSA . DÄR FINNS\nI STÄLLET VÄRDINNANS . SNUBBLA INTE VID PASSERANDE\nAV HÖRTELEFONSLADDEN . LUTA ER INTE ="},
+{"sektion": "Grupp 6", "text":"=\nPPQQT ÄUUEÄ HIFIF OSBSB ZPNPZ QYYQH VVUTU ÄÄSÖS FYPFP\nXBPXB QUOQU SHDDS PAPÖA SQFQF TRTSR USPUS NYBYB LQULQ\nEÄFÄF UPLLP SYYSN IZQZQ UBÖBU ÄÄPPO ÖXSXS QAAQH FUFÄU\nVVPQP DDSOS BYEYB VNVUU RPFPR BÄQQÄ XYIXY ZLELZ USQSU = +"}
 ]},
 {"lektion": "26", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nNNUU SFSF BBXX PPQQ ZTZT ÄÄYY OUUO VLVL EBEB FQQF ÄSÄS\nUUHH AAPP YRRY SQQS FXFX UIUI PBBP DÖDÖ YSYS QQUU BTBT\nNPPN QÄQÄ USSU VVBB EYYE PUPU LFFL UQQU HAHA SPSP ÄBBÄ\nQYQY ZOZO XÄÄX PPSS IQIQ FFUU VRVR BDBD UUPP SSQQ ÖÄÖÄ ="},
 {"sektion": "Grupp 2", "text":"=\nPPQQT ÄUUEÄ HIFIF OSBSB ZPNPZ QYYQH VVUTU ÄÄSÖS FYPFP\nXBPXB QUOQU SHDDS PAPÖA SQFQF TRTSR USPUS NYBYB LQULQ\nEÄFÄF UPLLP SYYSN IZQZQ UBÖBU ÄÄPPO ÖXSXS QAAQH FUFÄU\nVVPQP DDSOS BYEYB VNVUU RPFPR BÄQQÄ XYIXY ZLELZ USQSU ="},
 {"sektion": "Grupp 3", "text":"=\nSÄÖSN QQFPB LUUEH VOSST IPQPA YXUYZ QNQFR DÄBÄL SUYVS\nLSPOP UYIAU ZBRZA ÖFSÄF PLDPQ BHQBE YUPQU VTSÄS DPPYX\nRNYBY QUFHQ VYPPS UOFFÄ UITUA RZSXS RPFPÖ DLQÄQ VUFBU\nSEQSX PQPYU ÄBDÄP ÖQÄQN HFBFR UPSUE BSYOS AIQTQ XUÄUZ ="},
-{"sektion": "Grupp 4", "text":"=\nSITT STILLA QUINNA SADE ARATON SAX . UTAN BURDUSA\nTELEFONISTER VORE LIVET LÄTTARE . PÄRON I BUTANLAG\nBLIR BÄTTRE ÄN ÄPPELVIN . STUVAD STADSDUVA UTANFÖR\nLUTANDE INNERFÖNSTER . ÄPPELPALLAREN FRYSER ="},
-{"sektion": "Grupp 5", "text":"=\nNSQÄÖ FAYUB BSSPX LDXQU EYVYP UBTSQ ZQDIÄ SFAXS QUBUO\nPLSPY ÄQRFD HSUBU YNYAF FPQTB UÄSUF QZLVP PEÄSX BYVQU\nUHQRI FZPFV OBZÄS SUYNQ XPBDP ÖSUYU QÖPLP IOHBU ÄFSPT\nÄQÖÄR VXESY PÄQZN RFNQA SPFHS TIÄQB YUPRL SVOEQ DUUPZ ="},
+{"sektion": "Klartext", "text":"=\nSITT STILLA QUINNA SADE ARATON SAX . UTAN BURDUSA\nTELEFONISTER VORE LIVET LÄTTARE . PÄRON I BUTANLAG\nBLIR BÄTTRE ÄN ÄPPELVIN . STUVAD STADSDUVA UTANFÖR\nLUTANDE INNERFÖNSTER . ÄPPELPALLAREN FRYSER ="},
+{"sektion": "Grupp 4", "text":"=\nNSQÄÖ FAYUB BSSPX LDXQU EYVYP UBTSQ ZQDIÄ SFAXS QUBUO\nPLSPY ÄQRFD HSUBU YNYAF FPQTB UÄSUF QZLVP PEÄSX BYVQU\nUHQRI FZPFV OBZÄS SUYNQ XPBDP ÖSUYU QÖPLP IOHBU ÄFSPT\nÄQÖÄR VXESY PÄQZN RFNQA SPFHS TIÄQB YUPRL SVOEQ DUUPZ ="},
 {"sektion":"Nya tecken", "text":"=\nWWWWW WWWWW WWWWW WWWWW WWWWW\nKKKKK KKKKK KKKKK KKKKK KKKKK"},
-{"sektion": "Grupp 6", "text":"=\nWWWWW KKKKK WWWWK KKKWW WWKKK KWWWK KKWWW KKKWW WKKKW\nWWKKK WWKKW WKKWW KKWWK KWWKK WKWWK KWKWK ="},
-{"sektion": "Grupp 7", "text":"=\nWWSS QQWW FFKK KKUU ÄÄWW WWYY KKBB QQKK KKÄÄ PPKK WWQQ\nWWUU BBWW SSKK KKPP UUKK SSWW WWPP KKFF UUWW YYKK FFWW\nWWPP BBKK ÄÄKK WWSS KKSS QQKK WWUU WWFF YYWW KKPP WWÄÄ ="},
-{"sektion": "Grupp 8", "text":"=\nKKUU WWÄÄ WWSS FFKK KKBB WWWW KKYY SSKK KKPP FFUU WWKK\nWWQQ KKKK BBUU PPWW SSKK ÄÄSS KKBB WWFF QQPP WWYY KKÄÄ\nSSYY +\n"}]},
+{"sektion": "Grupp 5", "text":"=\nWWWWW KKKKK WWWWK KKKWW WWKKK KWWWK KKWWW KKKWW WKKKW\nWWKKK WWKKW WKKWW KKWWK KWWKK WKWWK KWKWK ="},
+{"sektion": "Grupp 6", "text":"=\nWWSS QQWW FFKK KKUU ÄÄWW WWYY KKBB QQKK KKÄÄ PPKK WWQQ\nWWUU BBWW SSKK KKPP UUKK SSWW WWPP KKFF UUWW YYKK FFWW\nWWPP BBKK ÄÄKK WWSS KKSS QQKK WWUU WWFF YYWW KKPP WWÄÄ ="},
+{"sektion": "Grupp 7", "text":"=\nKKUU WWÄÄ WWSS FFKK KKBB WWWW KKYY SSKK KKPP FFUU WWKK\nWWQQ KKKK BBUU PPWW SSKK ÄÄSS KKBB WWFF QQPP WWYY KKÄÄ\nSSYY +\n"}]},
 {"lektion": "27", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nWWWWW KKKKK WWWWK KKKWW WWKKK KWWWK KKWWW KKKWW WKKKW\nWWKKK WWKKW WKKWW KKWWK KWWKK WKWWK KWKWK ="},
 {"sektion": "Grupp 2", "text":"=\nWWSS QQWW FFKK KKUU ÄÄWW WWYY KKBB QQKK KKÄÄ PPKK WWQQ\nWWUU BBWW SSKK KKPP UUKK SSWW WWPP KKFF UUWW YYKK FFWW\nWWPP BBKK ÄÄKK WWSS KKSS QQKK WWUU WWFF YYWW KKPP WWÄÄ ="},
@@ -185,9 +185,9 @@ mtLektioner = [
 {"sektion": "Grupp 3", "text":"=\nUUBOB WHQWQ ÄNQQÄ ZKÖKZ PXPIX LSKLS RWTRW BQUBQ AWKWK\nWÄWÄO QUQUE KIYKY FBHFB VKVTK WQÄWQ NPUPU BWIBW SLSLQ\nQSQHS ÄDAÄD UKTUK WNWPP KUKQU YHUYU UBUEB ZWZWA TKÄKÄ\nUOFUF XQIXQ ÖASÖS RVERV QDQDÄ PNKPK LUWLU SPSOP WKKQW ="},
 {"sektion": "Grupp 4", "text":"=\n&?&. ,/-/ ?_?- ,&., _?/? -.-& /,.. /_/. &,.&\n?-?_ ,/,. &?&_ -/./ ,??& -_-& ,._, &/?/ &,&-\n?./. -,-? &?__ -_-, /.,. -&?- ,/__ ..&/ _-_,\n&/./ ,?_, ._.& ?_?/ -_.- ="},
 {"sektion": "Grupp 5", "text":"=\nSHZSI DVQEQ BBÖXL RKNKL TOFAF YYHNX WDVWI UNUÖE PLRPK\nZTEHZ ÄDOÄA XSTVX QNQRÖ IUDUE AXKTK IWFWV ÖZBOB YALYR\nTIYNY VPXDP FÄÄZO SÖSAH ROWLW BEQBT OPFAP KILKD UZÖXU\nHQNEQ ÄRVFÄ ="},
-{"sektion": "Grupp 6", "text":"=\nKNAPPAST UPPFATTBART RYTANDE HÖRDES I KORRIDOREN .\nKINKA INTE LILLA BARN FÖR VI SPIKAR BARA FAST EN\nFOT . KUSKEN PISKADE DEN RASANDE WALTER . DEN\nNIOSVANSADE KATTEN DANSADE EN YSTER POLKA . HUVUDET\nKNAKADE AV FÖRTVIVLAN ="},
-{"sektion": "Grupp 7", "text":"=\nIUÄUK ZDFBD TWSQQ RÖPKK XYXWU HILLW NAVWN EQOQS PUPRK\nFBWQB SÖHSU DZADW ONTVV LPÄZZ VIBKV YÖFYQ ABPQB ÖRWUW\nBUSKS KEXKÄ UROUS QHZUZ TEQYQ FPWKW IÄKKF ATAXZ ÖLQÄL\nNXNWS OIDPI ="},
-{"sektion": "Grupp 8", "text":"=\nDSHVK WFEÄT NQXKR ADUÖI KLYOB UZPHV RUFEÄ TNSYÖ BALXQ\nIXZFO ÄTDWE VBNPH ÖÄWLY PIASX ERQZF YKTNL OVÄDQ HÖIUP\nWXRÄD SYKAZ LHBTW = +"}
+{"sektion": "Klartext", "text":"=\nKNAPPAST UPPFATTBART RYTANDE HÖRDES I KORRIDOREN .\nKINKA INTE LILLA BARN FÖR VI SPIKAR BARA FAST EN\nFOT . KUSKEN PISKADE DEN RASANDE WALTER . DEN\nNIOSVANSADE KATTEN DANSADE EN YSTER POLKA . HUVUDET\nKNAKADE AV FÖRTVIVLAN ="},
+{"sektion": "Grupp 6", "text":"=\nIUÄUK ZDFBD TWSQQ RÖPKK XYXWU HILLW NAVWN EQOQS PUPRK\nFBWQB SÖHSU DZADW ONTVV LPÄZZ VIBKV YÖFYQ ABPQB ÖRWUW\nBUSKS KEXKÄ UROUS QHZUZ TEQYQ FPWKW IÄKKF ATAXZ ÖLQÄL\nNXNWS OIDPI ="},
+{"sektion": "Grupp 7", "text":"=\nDSHVK WFEÄT NQXKR ADUÖI KLYOB UZPHV RUFEÄ TNSYÖ BALXQ\nIXZFO ÄTDWE VBNPH ÖÄWLY PIASX ERQZF YKTNL OVÄDQ HÖIUP\nWXRÄD SYKAZ LHBTW = +"}
 ]},
 {"lektion": "29", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nYÖYUÖ KPPKI ÄFFÄQ DWTWD UABUA VRVOR QHQTH ZBZOB XSIXS\nESDDE LALKA NTVNV QYQPY PÄTPÄ FKWFK HZWZW RXXRI KUBKU\nWÖÖTW BQIQB XHFXF DEOED SLÄSL RVROV YHBHY PSKPS ÖÄQÄÖ\nZZUWU ANATN ="},
@@ -196,20 +196,20 @@ mtLektioner = [
 {"sektion": "Grupp 4", "text":"=\n/&/,& ?_-?- _.&.& -,/-/ .?,,? &.-&- ?/&/? -.-__\n&?&.? /,/_, ._-.- ?_?,, ./&&/ _-.-_ .&.&_ ,_?,?\n,.&,. /?_?/ ._-_- &.,&, -/,/- ?&&.? /,,/_ -.-_.\n?/&?/ _?,_? ="},
 {"sektion": "Grupp 5", "text":"=\nDSHVK WFEÄT NQXKR ADUÖI KLYOB UZPHV RUFEÄ TNSYÖ BALXQ\nIXZFO ÄTDWE VBNPH ÖÄWLY PIASX ERQZF YKTNL OVÄDQ HÖIUP\nWXRÄD SYKAZ LHBTW FEÖRK IOVQN ZXHBA UFYWR PLIKS DIXÖU\nNZEVB APQOT ="},
 {"sektion": "Grupp 6", "text":"=\nRIBQT SHZLU WÖPVY ÄIDZK TRXFW AOQDK ÖÄNSZ UPIZV WYHBE\nUTKXL POÖND ZRAKF LDÄKB ESRTZ VYUIX FEOÖN DVQAP SLZHT\nXFYÄS ZWVOQ NUERA BWLYI ÄXFPO TBQWE INBVÄ AZSEH HUDLR\nKAXQY OPNFÖ ="},
-{"sektion": "Grupp 7", "text":"=\nRUSSINBULLAR UPPÄTES UTAN KRUSIDULLER . HELT UTAN\nKOSTNAD FÖR STATSVERKET . KUNDE HÖNAN VÄRPA FÖRE\nBESÖKET AV TUPPEN . PASTOR KULLAREN KUTTRADE RUNT\nÄNKAN FLOOD . K W KARLSSON TILLVERKAR BADDRÄKTER ="},
-{"sektion": "Grupp 8", "text":"=\n,?&_? /-/&. &_?&. ,-_,. _/?.? &-./& /_-./ -,?.-\n,._,? /?-/. &-,&_ /-?.. ,_&-, ?./-? &._&/ ,/-.-\n.?,_, -./?. &,_&. ?/,/- _/?&? ,_?., &-?/& ._/-/\n_&.&, .?,?- ="},
-{"sektion": "Grupp 9", "text":"=\nYÖYUÖ KPPKI ÄFFÄQ DWTWD UABUA VRVOR QHQTH ZBZOB XSIXS\nESDDE LALKA NTVNV QYQPY = +"}
+{"sektion": "Klartext", "text":"=\nRUSSINBULLAR UPPÄTES UTAN KRUSIDULLER . HELT UTAN\nKOSTNAD FÖR STATSVERKET . KUNDE HÖNAN VÄRPA FÖRE\nBESÖKET AV TUPPEN . PASTOR KULLAREN KUTTRADE RUNT\nÄNKAN FLOOD . K W KARLSSON TILLVERKAR BADDRÄKTER ="},
+{"sektion": "Grupp 7", "text":"=\n,?&_? /-/&. &_?&. ,-_,. _/?.? &-./& /_-./ -,?.-\n,._,? /?-/. &-,&_ /-?.. ,_&-, ?./-? &._&/ ,/-.-\n.?,_, -./?. &,_&. ?/,/- _/?&? ,_?., &-?/& ._/-/\n_&.&, .?,?- ="},
+{"sektion": "Grupp 8", "text":"=\nYÖYUÖ KPPKI ÄFFÄQ DWTWD UABUA VRVOR QHQTH ZBZOB XSIXS\nESDDE LALKA NTVNV QYQPY = +"}
 ]},
 {"lektion": "30", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nYÖYUÖ KPPKI ÄFFÄQ DWTWD UABUA VRVOR QHQTH ZBZOB XSIXS\nESDDE LALKA NTVNV QYQPY PÄTPÄ FKWFK HZWZW RXXRI KUBKU\nWÖÖTW BQIQB XHFXF DEOED SLÄSL RVROV YHBHY PSKPS ÖÄQÄÖ\nZZUWU ANATN ="},
 {"sektion": "Grupp 2", "text":"=\nDSHVK WFEÄT NQXKR ADUÖI KLYOB UZPHV RUFEÄ TNSYÖ BALXQ\nIXZFO ÄTDWE VBNPH ÖÄWLY PIASX ERQZF YKTNL OVÄDQ HÖIUP\nWXRÄD SYKAZ LHBTW FEÖRK IOVQN ZXHBA UFYWR PLIKS DIXÖU\nNZEVB APQOT ="},
 {"sektion": "Grupp 3", "text":"=\n?,/_& -?.&_ ,-./& _-?./ _,&-. /&,?_ ./-,_ &.,-?\n_./-, ?&_.- ,?&/_ .,-&/ _.-?& /_,-? ./_-& ?._,-\n&?/., _&-., _.?/- ,&_./ /-,?& &/_.? ?&-,_ &./?,\n-?&/_ ,.?&/ ="},
 {"sektion": "Kontrollprov 5", "text":"=\nNYOÄP XZTOD FUEIB SVYÖZ DLÄRW VHKAS FXZBO PNUEÄ WTVAÖ\nZFLYI BDHKR NPFRA OSXHE ÄZQTU IWNVK ÖBPXH EQDZU AOTLY\nRIWFV KÖSNT HEÄQX UABPL WROKZ =\n/&?-_ ?,./_ &-.,? ?_,&. /,-&_ .,/?- ="},
-{"sektion": "Grupp 4", "text":"=\nRUSSINBULLAR UPPÄTES UTAN KRUSIDULLER . HELT UTAN\nKOSTNAD FÖR STATSVERKET . KUNDE HÖNAN VÄRPA FÖRE\nBESÖKET AV TUPPEN . PASTOR KULLAREN KUTTRADE RUNT\nÄNKAN FLOOD . K W KARLSSON TILLVERKAR BADDRÄKTER ="},
+{"sektion": "Klartext", "text":"=\nRUSSINBULLAR UPPÄTES UTAN KRUSIDULLER . HELT UTAN\nKOSTNAD FÖR STATSVERKET . KUNDE HÖNAN VÄRPA FÖRE\nBESÖKET AV TUPPEN . PASTOR KULLAREN KUTTRADE RUNT\nÄNKAN FLOOD . K W KARLSSON TILLVERKAR BADDRÄKTER ="},
 {"sektion":"Nya tecken","text":"ÅÅÅÅÅ ÅÅÅÅÅ ÅÅÅÅÅ ÅÅÅÅÅ ÅÅÅÅÅ\nMMMMM MMMMM MMMMM MMMMM MMMMM"},
-{"sektion": "Grupp 5", "text":"=\nÅÅÅÅÅ MMMMM ÅÅÅÅM MMMÅÅ ÅÅMMM MÅÅÅM MMÅÅÅ MMMÅÅ ÅMMMÅ\nÅÅMMM ÅÅMMÅ ÅMMÅÅ MMÅÅM MÅÅMM ÅMÅMM ÅMÅÅM ="},
-{"sektion": "Grupp 6", "text":"=\nMMKK ÅÅSS ÅÅÄÄ WWMM MMQQ BBÅÅ ÅÅPP KKÅÅ ÄÄMM MMUU WWÅÅ\nÅÅQQ SSMM BBMM ÅÅUU ÅÅBB MMKK MMWW ÄÄÅÅ QQÅÅ PPÅÅ KKMM\nMMÄÄ UUÅÅ ÅÅWW MMBB QQMM ÅÅKK MMPP SSÅÅ ÄÄMM WWÅÅ UUMM\nBBMM ÅÅQQ ="},
-{"sektion": "Grupp 7", "text":"=\nBBMM MMÅÅ ÅÅQQ UUÄÄ MMMM WWKK ÅÅÅÅ SSUU QQÅÅ ÅÅMM MMPP\nBBWW KKÅÅ SSÅÅ UUQQ MMÄÄ MMPP ÅÅKK WWÅÅ BBMM ÅÅMM = +"}
+{"sektion": "Grupp 4", "text":"=\nÅÅÅÅÅ MMMMM ÅÅÅÅM MMMÅÅ ÅÅMMM MÅÅÅM MMÅÅÅ MMMÅÅ ÅMMMÅ\nÅÅMMM ÅÅMMÅ ÅMMÅÅ MMÅÅM MÅÅMM ÅMÅMM ÅMÅÅM ="},
+{"sektion": "Grupp 5", "text":"=\nMMKK ÅÅSS ÅÅÄÄ WWMM MMQQ BBÅÅ ÅÅPP KKÅÅ ÄÄMM MMUU WWÅÅ\nÅÅQQ SSMM BBMM ÅÅUU ÅÅBB MMKK MMWW ÄÄÅÅ QQÅÅ PPÅÅ KKMM\nMMÄÄ UUÅÅ ÅÅWW MMBB QQMM ÅÅKK MMPP SSÅÅ ÄÄMM WWÅÅ UUMM\nBBMM ÅÅQQ ="},
+{"sektion": "Grupp 6", "text":"=\nBBMM MMÅÅ ÅÅQQ UUÄÄ MMMM WWKK ÅÅÅÅ SSUU QQÅÅ ÅÅMM MMPP\nBBWW KKÅÅ SSÅÅ UUQQ MMÄÄ MMPP ÅÅKK WWÅÅ BBMM ÅÅMM = +"}
 ]},
 {"lektion": "31", "sektioner": [
 {"sektion": "Grupp 1", "text":"=\nMMKK ÅÅSS ÅÅÄÄ WWMM MMQQ BBÅÅ ÅÅPP KKÅÅ ÄÄMM MMUU WWÅÅ\nÅÅQQ SSMM BBMM ÅÅUU ÅÅBB MMKK MMWW ÄÄÅÅ QQÅÅ PPÅÅ KKMM\nMMÄÄ UUÅÅ ÅÅWW MMBB QQMM ÅÅKK MMPP SSÅÅ ÄÄMM WWÅÅ UUMM\nBBMM ÅÅQQ ="},
