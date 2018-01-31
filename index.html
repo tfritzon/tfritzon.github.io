@@ -5,13 +5,30 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>WebCW</title>
-    <script src="https://unpkg.com/vue"></script>
-    <script src="https://mohayonao.github.io/web-audio-scheduler/build/web-audio-scheduler.min.js"></script>
-    <script src="https://raw.githubusercontent.com/10quality/vue-progress-bar/master/dist/vue.progress-bar.min.js"></script>
+    <!-- <script src="https://unpkg.com/vue"></script> -->
+    <script src="lib/vue.min.js"></script>
+    <!-- <script src="https://mohayonao.github.io/web-audio-scheduler/build/web-audio-scheduler.min.js"></script> -->
+    <script src="lib/web-audio-scheduler.min.js"></script>
+    <script src="lib/vue.progress-bar.min.js"></script>
+    <script src="morsetab.js"></script>
+    <script src="lektioner2.js"></script>
   </head>
   </body>
   <div id="app">
     <p style="height: 50px; font-size: 24pt;">{{ sending }}</p>
+    <p>
+      <select id="lektion" v-model="lektion">
+	<option v-for="l in lektioner" v-bind:value="l">
+	  {{ "Lektion " + l.lektion }}
+	</option>
+      </select>
+      <select id="sektion" v-model="sektion">
+	<option v-for="s in lektion.sektioner" v-bind:value="s">
+	  {{ s.sektion }}
+	</option>
+      </select>
+      <button v-on:click="load">LOAD</button>
+    </p>
     <textarea placeholder="type here ..."
       cols="80" rows="10" v-on:keypress="morse" v-model="message" id="inp"></textarea><br />
     <!-- <progress min="0" max="100" value="0" style="width: 660px;" id="prog"></progress> -->
@@ -44,7 +61,8 @@
                 <option value="1760" label="1760">
               </datalist>
               <font size="2">220 Hz</font>
-              <input type="range" min="220" max="1760" value="220" list="fticks" style="width: 400px" v-model="freq"/>
+              <input type="range" min="220" max="1760" value="220"
+		     list="fticks" style="width: 400px" v-model="freq"/>
               <font size="2">1760 Hz</font>
             </td>
             <td>
@@ -76,7 +94,8 @@
                 <option value="200" label="200">
               </datalist>
               <font size="2">20 t/min</font>
-              <input type="range" min="20" max="200" value="20" step="5" list="sticks" style="width: 400px"
+              <input type="range" min="20" max="200" value="20" step="5"
+		     list="sticks" style="width: 400px"
 		     v-model.number="speed"/>
               <font size="2">200 t/min</font>
             </td>
@@ -88,7 +107,8 @@
             <td>Farnsworth:</td>
             <td>
               <font size="2">20 t/min</font>
-              <input type="range" min="20" max="200" value="20" step="5" list="sticks" style="width: 400px"
+              <input type="range" min="20" max="200" value="20" step="5"
+		     list="sticks" style="width: 400px"
 		     v-model.number="farnsworth"/>
               <font size="2">200 t/min</font>
             </td>
@@ -99,6 +119,6 @@
         </table>
       </p>
   </div>
-  <script src="main.js"></script>
+  <script src="vue.js"></script>
   <body>
 </html>
