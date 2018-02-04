@@ -1252,7 +1252,7 @@ mtLektioner = [
 	 },
 	 {"sektion": "Tecken",
 	  "text":"=\n" +
-	  ",-&. .,/& ?,/& _.&- ,?._ &?,/ -/&? /-?. ?_&,\n" +
+	  ",-_. .,/& ?,/& _.&- ,?._ &?,/ -/&? /-?. ?_&,\n" +
 	  "./-& ?,_& ,./_ /?&- -,./ _-,& /?&. ?_-& ,/&_\n" +
 	  ".?/, _.&- ?&./ -_,& /-_. ./?, ?/-& ,.&_ _/.-\n" +
 	  "&,?. -_/& /-,_ .?_- _&/, ="
@@ -1261,15 +1261,15 @@ mtLektioner = [
 	  "text":"=\n" +
 	  "MMKK ZZSS ÅÅQQ PPMM UVUV WWXX KKDD ITIT RRÅÅ LKLK EOEO\n" +
 	  "FFWW ÖMMÖ AHAH NSNS YQYQ MKMK PÅÅP UWWU ÄXÄX MBMB WÅWÅ\n" +
-	  "VYYV LFLF ÄAÄA KBKB ÅMÅM RZZR WMWM OYOY PKPK WÅWÅ EUEU\n" +
-	  "QÖQÖ MRRM DLDL ÅSÅS TWTW ÄNÄN MXMX HIHI KÅKÅ ZVZV PQPQ ="
+	  "VYVY LFLF ÄAÄA KBKB ÅMÅM RZZR WMWM OYOY PKPK WÅWÅ EUEU\n" +
+	  "QÖQÖ MRRM DLDL ÅSÅS TWTW ÄNÄN MXMX HIHI KÅKÅ ZVZV QPQP ="
 	 },
 	 {"sektion": "Bokstäver 6",
 	  "text":"=\n" +
 	  "ÅÅAÖ ZMMN PSRP WWLT UOHU YEÅÅ KVKÄ QFQB IZDZ MMNR XÅÅL\n" +
-	  "WBWM YKKF BQÄQ APIP ÅEED KOKT SLÖS ÅKÅH EWMM VFVH WAWÖ\n" +
-	  "MDMÄ TXCX KÅSK RLMR QHFQ YWEY IMAM DPOD TÅWÅ ÄKNK FURU\n" +
-	  "MWFW VEVH KÖKA NPÅP SOIS XWUW ZLTZ ÅKQK XEIX ÖUNU MKMÄ ="
+	  "WBWM YKKF BQÄQ APIP ÅWWD KOKT SLÖS ÅKÅH EWMM VFVH WAWÖ\n" +
+	  "MDMÄ TXOX KÅSK RLMR QHFQ YWEY IMAM DPOD TÅWÅ ÄKNK FURU\n" +
+	  "MWFW VEVH KÖKA NPÅP SOIS XWUW ZLTZ ÅKQÅ XEIX ÖUNU MKMÄ ="
 	 },
 	 {"sektion": "Bokstäver 7",
 	  "text":"=\n" +
@@ -1670,12 +1670,657 @@ mtLektioner = [
 	  "858 959 818 = +"
 	 }
      ]
+    },
+    {"lektion": "39",
+     "sektioner": [
+	 {"sektion": "Bokstäver 1",
+	  "text": "=\n" +
+	  "ZHFZF EIÄIÄ XTPXP KUKNU ÅRDÅR CJOCJ ADZAD VEHHV YSNSY\n" +
+	  "XÖXRÖ FMTMT JQOJQ IZFFZ ÄNPPÄ WBWEB UKXUK LGLÖG ORÅRÅ\n" +
+	  "NAYYA HSHSO ÅMÅEM ÖLALÖ JVGJG MCMTC TDJDT BVLVB QCQOC\n" +
+	  "MXMXE WGWGN ="
+	 },
+	 {"sektion": "Bokstäver 2",
+	  "text": "=\n" +
+	  "TFCFZ MLEMB JHÄNÄ GUOIU QXSWQ ÖAVYY IEPPV NWBCW HGLQG\n" +
+	  "ZKKOT RÖJAR VÅÅSX LIFZF MTDBM ÄNRÖÄ DOHVD YPUXY ASQCQ\n" +
+	  "ECÅJC WWNEB PZPTL UKÖUO XHAAI SVÅMÅ BJZJN KÄTKE DFDLÖ\n" +
+	  "ORIRA GYXGH ="
+	 },
+	 {"sektion": "Bokstäver 3",
+	  "text": "=\n" +
+	  "FIÅCR KYXNG QZOBE ALPCÄ MTJÖÅ VHSWU YRFGK ÅÄJEN GÖQOZ\n" +
+	  "LJIUP XWCHM BVAMT IEYJR USÄZB COÖÄQ PBLXV WMHKF TAGSÅ\n" +
+	  "EFRGW CNÅMO ÖQUIA ZGKLY BPVTC HXWÄS EÅRYX ÄUNFH SKBQI\n" +
+	  "OCMVL JATPZ ="
+	 },
+	 {"sektion": "Klartext",
+	  "text": "=\n" +
+	  "JAPAN HAR BLIVIT ALLDELES FÖR COCACOLONISERAT . DET\n" +
+	  "VAR SÅ KALLT OCH REGNINGT ATT DET ENDA SOM VAR UTOMHUS\n" +
+	  "VAR VÄDRET . BOKTRYCKAREN VAR EN LITEN SATT TYP . ="
+	 },
+	 {"sektion": "Bokstäver 4",
+	  "text": "=\n" +
+	  "XYMJS AWBCZ DÅLNU QVROÖ FEKGH IMÄJT HXÅYC WLDPK VATUC\n" +
+	  "RBNLQ MIZÖO EGFÄJ LPUKD ÅHXQI CGORY JZETB GNVJW ÖKAFÄ\n" +
+	  "OUYDC PTWÅÅ ZJMER BQIXF KÄMHA NÖGVÅ TDPBE UOHZN GRMIV\n" +
+	  "ÄCQAX YFÖWL ="
+	 },
+	 {"sektion": "Blandning",
+	  "text": "=\n" +
+	  "YFÖWL 494 OXYXY ??, ÅEQÅQ 575 LGPLG //.\n" +
+	  "HNÄHÄ 818 ARAER -_- TJCJC 949 DWODO .&.\n" +
+	  "QQÖNÖ 575 MULMU &&/ ÄBAÄB 494 PPEKK _?_\n" +
+	  "CMCOM 117 GRXGR ,/, VFBFB 848 TSÖTS &-&\n" +
+          "ZKNZK 787 JÅIJÅ ?-? ="
+	 },
+	 {"sektion": "Bokstäver 5",
+	  "text": "=\n" +
+	  "SCABN DJTRB LAVQL UNPAP AUYCE ZDQIS FMNDO ETOIU RLXZI\n" +
+	  "NQFMQ HRÄNX KFCXW OVLFV ÄEOPK ÖZSHT QODÅA TYBLÅ ISWEZ\n" +
+	  "YOEYÄ IÅÖSH CHRWM VWGJÖ MÄMVC JPKOR PJZÄG BXHUD XKUKF\n" +
+	  "WGJGJ GBÅTY ="
+	 },
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "511 889 774 118 899 711 588 455 414 878 191 118 747 191\n" +
+	  "858 959 818 474 585 919 848 151 898 757 414 959 878 141\n" +
+	  "877 711 959 848 171 188 151 474 898 141 878 515 ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "895 177 814 519 818 714 459 178 915 871 841 591 488 = +"
+	 }
+     ]
+    },
+    {"lektion": "40",
+     "sektioner": [
+	 {"sektion": "Bokstäver 1",
+	  "text": "=\n" +
+	  "XJXXK GQPGY ÅLMEM FWJFÄ JHSZZ YÅYCU MBÖBJ CWKGG KRAVR\n" +
+	  "DTÅIÅ OUNJJ WWQSD UGMUQ PHPCÅ ÖAÄÖY SQMVM VLCCÅ CGÄGB\n" +
+	  "LJKJU NIXÅX AFHBH TDTMG IOGEC RSSJÅ EJXZC BPWBC ÄMROÄ\n" +
+	  "QMKQG HPZFF ="
+	 },
+	 {"sektion": "Bokstäver 2",
+	  "text": "=\n" +
+	  "FIÅCR KYXNG QZOBE ALPCÄ MTJÖÅ VHSWU YRFGK ÅÄJEN GÖQOZ\n" +
+	  "LJIUP XWCHM BVAMT IEYJR USÄZB COÖÄQ PBLXV WMHKF TAGSÅ\n" +
+	  "EFRGW CNÅMO ÖQUIA ZGKLY BPVTC HXWÄS EÅRYX ÄUNFH SKBQI\n" +
+	  "OCMVL JATPZ ="
+	 },
+	 {"sektion": "Siffror",
+	  "text": "=\n" +
+	  "895 177 814 519 818 714 459 178 915 871 841 591 488 157\n" +
+	  "184 189 145 798 488 747 951 871 518 194 587 181 817 419\n" +
+	  "985 878 141 158 891 714 815 489 851 978 845 198 ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  ",?&_? /-/&. &_?&. ,-_,- _/?.? &-./& /_-./ -,?.-\n" +
+	  ".,_,? /?-/. &-,&_ /-?.. ,_&-, ?./-? &._&/ ,/-.-\n" +
+          ".?,_, -./?. &,_&. ?/,/- _/?&? ,_?., &-?/& ._/-/\n" +
+	  "_&.&, .?,?- ="
+	 },
+	 {"sektion": "Kontrollprov 6",
+	  "text": "=\n" +
+	  "SCABN DJTRB LAVQL UNPAP AUYCE ZDQIS FMNDO ETOIU RLXZI\n" +
+	  "NQFMQ HRÄNX KFCXW OVLFV ÄEOPK ÖZSHT QODÅA TYBLÅ ISWEZ\n" +
+	  "YOEYÄ IÅÖSH =\n" +
+	  ",?/.& /&,?. /_.-/ &_?,- ?_-&, =\n" +
+	  "49758 45197 75198 71548 ="
+	 },
+	 {"sektion": "Klartext",
+	  "text": "=\n" +
+	  "BJÖRNARNA PÅ SKANSEN BLIR ALLTMER SLÄNGDA I KÄFTEN .\n" +
+	  "MAMMA , JAG MÅSTE ÄTA MED KNIVEN , FÖR GAFFELN LÄCKER .\n" +
+	  "MALMODER TILL MALBARN OM DU INTE ÄTER SNÄLLT AV KOFTAN ,\n" +
+	  "FÅR DU INGEN PERSIENPÄLS TILL EFTERRÄTT . SNÖN LADE\n" +
+	  "FÖRBAND PÅ GATLYKTORNA . ="
+	 },
+	 {"sektion": "Bokstäver 3",
+	  "text": "=\n" +
+	  "SCABN DJTRB LAVQL UNPAP AUYCE ZDQIS FMNDO ETOIU RLXZI\n" +
+	  "NQFMQ HRÄNX KFCXW OVLFV ÄEOPK ÖZSHT QODÅA TYBLÅ ISWEZ\n" +
+	  "YOEYÄ IÅÖSH CHRWM VWGJÖ MÄMVC JPKOR PJZÄG BXHUD XKUKF\n" +
+	  "WGJGJ GBÅTY = +"
+	 }
+     ]
+    },
+    {"lektion": "41",
+     "sektioner": [
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "511 889 774 118 899 711 588 455 414 878 191 118 747 191\n" +
+	  "858 959 818 474 585 919 848 151 898 757 414 959 878 141\n" +
+	  "877 711 959 848 171 188 151 474 898 141 878 515 ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "895 177 814 519 818 714 459 178 915 871 841 591 488 157\n" +
+	  "184 189 145 798 488 747 951 871 518 194 587 181 817 419\n" +
+	  "985 878 141 158 891 714 815 489 851 978 845 198 ="
+	 },
+	 {"sektion": "Siffror 3",
+	  "text": "=\n" +
+	  "158 911 887 415 191 878 519 418 714 981 858 748 191 875\n" +
+	  "819 848 517 984 157 487 195 181 848 719 541 784 181 957\n" +
+	  "418 795 841 878 549 718 915 181 584 791 858 149 ="
+	 },
+	 {"sektion": "Bokstäver 1",
+	  "text": "=\n" +
+	  "UUCC CCVV ITIT XXBB GGWW LLJJ ÖJJÖ KKYY QQFF UNUN CCDD\n" +
+	  "CCZZ EOEO HBHB GGÄÄ SPSP AGAG WJJW ÅGÅG JRRJ CKCK MIMI\n" +
+	  "GGCC TKTK QCQC SSGG ONON JJCC VQVQ EKEK GGBB XXJJ GUGU\n" +
+	  "WJWJ JHJH YJYJ FPFP DLLD QAQA RRCC KZZK ÖCÖC CÄCÄ GGJJ ="
+	 },
+	 {"sektion": "Bokstäver 2",
+	  "text": "=\n" +
+	  "XYMJS AWBCZ DÅLNU QVRÖÖ FEKGH IMÄJT HXÅYC WLDPK VATUC\n" +
+	  "RBNLQ MIZÖÖ EGFÄJ LPUKD ÅHXQI CGORY ZJETB GNVJM ÖKAFÄ\n" +
+	  "OUYDC PTWÅÅ ZJMER BQIXF KÄMHA NÖGVÅ TDPBE UOHZN GRMIV\n" +
+	  "ÄCQAX YFÖWL ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  "&?&. ,/-/ ?_?- ,&., _?/? -.-& /,.. /X/. &,-&\n" +
+	  "?-?_ ,/,. &?&_ -/./ ,??& -_-& ,._, &/?/ &,&-\n" +
+	  "?./. -,-? &?__ -_-, /.,. .&?- ,/__ ..&/ _-_,\n" +
+	  "&/./ ,?_, ._.& ?_?/ -_.- ="
+	 },
+	 {"sektion": "Nya tecken",
+	  "text": "33333 33333 33333 33333 33333\n" +
+	  "66666 66666 66666 66666 66666"
+	 },
+	 {"sektion": "Siffror 4",
+	  "text": "=\n" +
+	  "33333 66666 33336 66633 33666 63336 66333 66633 36663\n" +
+	  "36633 66336 63366 33663 36633 63663 63636 ="
+	 },
+	 {"sektion": "Siffror 5",
+	  "text": "=\n" +
+	  "3399 3388 6677 6611 4433 5566 8833 7766 9933 3311 5566\n" +
+	  "6699 3377 3344 6688 1166 7733 4466 3355 6699 8833 1133\n" +
+	  "5566 6644 8833 9966 3377 6611 5566 3344 = +"
+	 }
+     ]
+    },
+    {"lektion": "42",
+     "sektioner": [
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "3399 3388 6677 6611 4433 5566 8833 7766 9933 3311 5566\n" +
+	  "6699 3377 3344 6688 1166 7733 4466 3355 6699 8833 1133\n" +
+	  "5566 6644 8833 9966 3377 6611 5566 3344 ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "7733 6655 3344 6688 9933 1166 3883 7667 3355 6161 8338\n" +
+	  "9393 1616 6464 6776 5533 6464 3838 9393 4646 1313 6767\n" +
+	  "5665 4343 6969 3535 6868 3131 3737 6996 ="
+	 },
+	 {"sektion": "Siffror 3",
+	  "text": "=\n" +
+	  "667 338 166 433 373 696 383 775 636 844 363 995 833 686\n" +
+	  "449 313 636 998 633 944 565 686 393 766 363 656 447 636\n" +
+	  "887 399 656 336 771 636 155 181 363 977 464 373 ="
+	 },
+	 {"sektion": "Bokstäver 1",
+	  "text": "=\n" +
+	  "XJXXK GQPGY ÅLMEM FWJFÄ JHSZZ YÅYCU MBÖBJ CWKGG KRAVR\n" +
+	  "DTÅIÅ OUNJJ WWQSD UGMUQ PHPCÅ ÖAÄÖY SQMVM VLCCÅ CGÄGB\n" +
+	  "LJKJU NIXÅX AFHBH TDTMG IOGEC RSSJÅ EJXZC BPWBC ÄMROÄ\n" +
+	  "QMKQG HPZFF ="
+	 },
+	 {"sektion": "Bokstäver 2",
+	  "text": "=\n" +
+	  "FIÅCR KYXNG QZOBE ALPCÄ MTJÖÅ VHSWU YRFGK ÅÄJEN GÖQOZ\n" +
+	  "LJIUP XWCHM BVAMT IEYJR USÄZB COÖÄQ PBLXV WMHKF TAGSÅ\n" +
+	  "EFRGW CNÅMO ÖQUIA ZGKLY BPVTC HXWÄS EÅRYX ÄUNFH SKBQI\n" +
+	  "OCMVL JATPZ ="
+	 },
+	 {"sektion": "Klartext",
+	  "text": "=\n" +
+	  "MORGONSTUND HAR GULD I BLUND . BABYN STRÄCKTE PÅ SINA\n" +
+	  "SMÅ BEN OCH RÄCKTE FRAM EN BUKETT TÅR . HUNDENS\n" +
+	  "DAMMSUGARNOS . APTITRETARE ÄR SMÅ LÄCKERBITAR MAN\n" +
+	  "ÄTER TILLS MAN MIST APTITEN . ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  "?,/_& -?.&_ ,-./& _-?./ _,&-. /&,?_ ./-,_ &.,-?\n" +
+	  "_./-, ?&_.- ,?&/_ .,-&/ _.-?& /_,-? ./_-& ?._,-\n" +
+	  "&?/., _&-., _.?/- ,&_./ /-,?& &/_.? ?&-,_ &./?,\n" +
+	  "-?&/_ ,.?&/ ="
+	 },
+	 {"sektion": "Siffror 4",
+	  "text": "=\n" +
+	  "3377 6688 5533 9933 6699 6611 3311 8866 6655 3377 4466\n" +
+	  "4499 5566 3388 6611 3311 6633 9966 9933 1144 4433 6688\n" +
+	  "1166 8833 3355 7766 4466 3377 7766 3355 ="
+	 },
+	 {"sektion": "Siffror 5",
+	  "text": "=\n" +
+	  "5656 3939 6116 4334 6565 8383 4646 9966 7373 6688 5335\n" +
+	  "8668 3838 1616 3993 7667 6336 5353 = +"
+	 }
+     ]
+    },
+    {"lektion": "43",
+     "sektioner": [
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "5656 3939 6116 4334 6565 8383 4646 9966 7373 6688 5335\n" +
+	  "8668 3838 1616 3993 7667 6336 5353 4343 9966 3535 6116\n" +
+	  "8668 7337 3113 7667 3737 1661 4499 3344 ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "566 313 511 667 656 339 858 393 616 433 733 669 466 339\n" +
+	  "559 191 373 441 833 667 686 373 668 949 669 331 833 676\n" +
+	  "858 646 151 454 833 766 696 373 866 343 747 353 ="
+	 },
+	 {"sektion": "Siffror 3",
+	  "text": "=\n" +
+	  "631 846 387 397 864 539 683 164 375 631 676 735 961 656\n" +
+	  "939 316 693 436 738 346 653 684 319 934 967 386 315 638\n" +
+	  "536 673 346 167 385 643 316 934 653 863 761 356 ="
+	 },
+	 {"sektion": "Bokstäver 1",
+	  "text": "=\n" +
+	  "TFCFZ MLEMB JHÄNÄ GUOIU QXSWQ ÖAVYY IEPPV NWBCW HGLQG\n" +
+	  "ZKKOT RÖJAR VÅÅSX LIFZF MTDBM ÄNRÖÄ DOHVD YPUXY ASQCQ\n" +
+	  "ECÅJC WWNEB PZPTL UKÖUO XHAAI SVÅMÅ BJZJN KÄTKE DFDLÖ\n" +
+	  "ORIRA GYXGH ="
+	 },
+	 {"sektion": "Bokstäver 2",
+	  "text": "=\n" +
+	  "XYMJS AWBCZ DÅLNU QVROÖ FEKGH IMÄJT HXÅYC WLDPK VATUC\n" +
+	  "RBNLQ MIZÖO EGFÄJ LPUKD ÅHXQI CGORY JZETB GNVJW ÖKAFÄ\n" +
+	  "OUYDC PTWÅÅ ZJMER BQIXF KÄMHA NÖGVÅ TDPBE UOHZN GRMIV\n" +
+	  "ÄCQAX YFÖWL ="
+	 },
+	 {"sektion": "Blandning",
+	  "text": "=\n" +
+	  "SSLML 169 XFFXC /,? ZYUZY 754 QRÅRQ -_&\n" +
+	  "EUGEU 513 IÄMIÄ &/? ÖÅÅBÖ 975 VPJVP ./&\n" +
+	  "LBBLF 347 CTQTC .?, DKDWK 346 XOXÅO _,-\n" +
+	  "AQAUQ 681 SHGHG ?_- DNDNP 135 FVMFV ,-/\n" +
+	  "WKZWZ 846 JÄRJR .&_ ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  ",/. ?-_ ?,. /_& ?-. /-, _.& /-. &/, ._/ -,_\n" +
+	  "-.? &_? -/_ ?.? &-, &., ?/& &_- &.? &,& ,-?\n" +
+	  ",?. -_/ _./ .,- &_? /.& /-_ &?& ./- &,/ _&,\n" +
+          "&,_ -/. -,_ ,_. ?-/ ?_? ,?/ _,- .?/ ="
+	 },
+	 {"sektion": "Siffror 4",
+	  "text": "=\n" +
+	  "356 469 356 831 394 613 866 435 167 663 386 936 685 438\n" +
+	  "766 965 396 673 383 716 431 468 387 656 153 843 697 531\n" +
+	  "369 613 673 534 643 413 938 676 539 136 873 763 ="
+	 },
+	 {"sektion": "Siffror 5",
+	  "text": "=\n" +
+	  "5656 3939 6116 4334 6565 8383 4646 9966 7373 6688 5335\n" +
+	  "8668 3838 1616 3993 7667 6336 5353 4343 = +"
+	 }
+     ]
+    },
+    {"lektion": "44",
+     "sektioner": [
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "3377 6688 5533 9933 6699 6611 3311 8866 6655 3377 4466\n" +
+	  "4499 5566 3388 6611 3311 6633 9966 9933 1144 4433 6688\n" +
+	  "1166 8833 3355 7766 4466 3377 7766 3355 ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "566 313 511 667 656 339 858 393 616 433 733 669 466 339\n" +
+	  "559 191 373 441 833 667 686 373 668 949 669 331 833 676\n" +
+	  "858 646 151 454 833 766 696 373 866 343 747 353 ="
+	 },
+	 {"sektion": "Nya tecken",
+	  "text": "22222 22222 22222 22222 22222\n" +
+	  "00000 00000 00000 00000 00000"
+	 },
+	 {"sektion": "Siffror 3",
+	  "text": "=\n" +
+	  "22222 00000 22220 00022 22000 02220 00222 00022 20002\n" +
+	  "20022 00220 02200 22002 20022 00202 02020 ="
+	 },
+	 {"sektion": "Siffror 4",
+	  "text": "=\n" +
+	  "0066 2233 0099 7722 8800 1100 2244 2233 5500 0066 1122\n" +
+	  "2288 7700 9900 3322 4422 2277 0088 0055 6600 2211 3322\n" +
+	  "6600 0088 2299 1100 7722 5522 2233 0044 ="
+	 },
+	 {"sektion": "Siffror 5",
+	  "text": "=\n" +
+	  "2200 3300 6688 4422 2200 7788 9229 5151 2233 0220 0404\n" +
+	  "7227 0909 8228 6060 1221 4545 2020 7373 0808 9292 6262\n" +
+	  "1001 0202 8778 9090 0202 5353 4646 2020 ="
+	 },
+	 {"sektion": "Bokstäver",
+	  "text": "=\n" +
+	  "FIÅCR KYXNG QZOBE ALPCÄ MTJÖÅ VHSWU YRFGK ÅÄJEN GÖQOZ\n" +
+	  "LJIUP XWCHM BVAMT IEYJR USÄZB COÖÄQ PBLXV WMHKF TAGSÅ\n" +
+	  "EFRGW CNÅMO ÖQUIA ZGKLY BPVTC HXWÄS EÅRYX ÄUNFH SKBQI\n" +
+	  "OCMVL JATPZ ="
+	 },
+	 {"sektion": "Siffror 6",
+	  "text": "=\n" +
+	  "4466 2255 1100 3388 7799 6622 4411 3300 5522 6688 1177\n" +
+	  "9922 4433 5500 8811 7766 2299 3355 0044 1177 6688 8833\n" +
+	  "9922 3300 5588 3377 4499 6611 7788 0055 2299 7744 ="
+	 },
+	 {"sektion": "Siffror 7",
+	  "text": "=\n" +
+	  "5050 1133 7447 6868 2233 9559 0088 1717 3434 2882 5225\n" +
+	  "0660 9191 7337 4477 5858 2626 1001 9393 8778 8484 9292\n" +
+	  "6767 3003 = +"
+	 }
+     ]
+    },
+    {"lektion": "45",
+     "sektioner": [
+	 {"sektion": "Bokstäver 1",
+	  "text": "=\n" +
+	  "YYÅÅ TTMM ÄÄXX IIOO ÅÅPP RRUU AAXX ÄÄVV XXKK YYBB ÖÖUU\n" +
+	  "LLSS QQJJ PPZZ QQZZ SSYY VVBB JJÄÄ ÅÅUU YYZZ ÅÅXX KKJJ\n" +
+	  "VVRR ÄÄOO HHDD TTZZ CCYY ÖÖII TTLL WWAA VVXX IIZZ KKÖÖ\n" +
+	  "RRNN CCBB GGAA ÖÖDD HHGG ZZKK CCVV ="
+	 },
+	 {"sektion": "Tecken 1",
+	  "text": "=\n" +
+	  "//?? &&,, ++?? &&__ //.. __&& //,, ,,== ..__\n" +
+	  "..,, ==.. ,,== ++-- ..,, ??== ..// ==?? ==++\n" +
+	  "&&,, ==// ++-- &&,, --?? &&== ,,== &&,, //..\n" +
+	  "??// ==,, __== ="
+	 },
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "6622 8800 7755 6611 5533 1133 7755 9966 9977 1100 1144\n" +
+	  "2288 0044 6622 4422 4411 0088 7799 2255 2244 3399 1133\n" +
+	  "6688 7755 6633 0055 9933 8844 4477 3322 ="
+	 },
+	 {"sektion": "Bokstäver 2",
+	  "text": "=\n" +
+	  "KIL HNP YEX UDÄ HÅQ SOT IHJ MGO VFT WGC RIW PRN JKG\n" +
+	  "FQR ZGV FAB JVY UMQ FET ESÅ QER SXT SKZ LPK DAB AUW\n" +
+	  "DHU ÖUY WXL ÖMJ DGC ÄBX PTI WVZ XNM ÄIO JBÖ AVC KSO\n" +
+	  "QÄP OÅL ANH LIA BWY RJP RQY RBA BEÅ HMY CÖQ ="
+	 },
+	 {"sektion": "Tecken 2",
+	  "text": "=\n" +
+	  "/&. =./ -_+ +-, ?+= &-? =,/ ,.& &.+ -/, .=&\n" +
+	  "_=- +/_ ?,_ ,=, _/- -?& /?+ -/+ &_. =./ ,_=\n" +
+	  "?_= ?&/ .,+ -?, +-& &=. _?? .&/ -_, .+_ =/=\n" +
+	  "=?+ -_. ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "706 253 162 142 267 583 071 647 764 674 930 480 725\n" +
+	  "045 517 492 920 385 058 901 859 193 849 331 369 861\n" +
+	  "078 965 182 324 ="
+	 },
+	 {"sektion": "Bokstäver 3",
+	  "text": "=\n" +
+	  "ZHFZF EIÄIÄ XTPXP KUKNU ÅRDÅR CJOCJ ADZAD VEHHV YSNSY\n" +
+	  "XÖXRÖ FMTMT JQOJQ IZFFZ ÄNPPÄ WBWEB UKXUK LGLÖG ORÅRÅ\n" +
+	  "NAYYA HSHSO ÅMÅEM ÖLALÖ JVGJG MCMTC TDJDT BVLVB QCQOC\n" +
+	  "MXMXE WGWGN ="
+	 },
+	 {"sektion": "Bokstäver 4",
+	  "text": "=\n" +
+	  "TFCFZ MLEMB JHÄNÄ GUOIU QXSWQ ÖAVYY IEPPV NWBCW HGLQG\n" +
+	  "ZKKOT RÖJAR VÅÅSX LIFZF MTDBM ÄNRÖÄ DOHVD YPUXY ASQCQ\n" +
+	  "ECÅJC WWNEB PZPTL UKÖUO XHAAI SVÅMÅ BJZJN KÄTKE DFDLÖ\n" +
+	  "ORIRA GYXGH ="
+	 },
+	 {"sektion": "Bokstäver 5",
+	  "text": "=\n" +
+	  "XJXXK GQPGY ÅLMEM FWJFÄ JHSZZ YÅYCU MBÖBJ CWKGG KRAVR\n" +
+	  "DTÅIÅ OUNJJ WWQSD = +"
+	 }
+     ]
+    },
+    {"lektion": "46",
+     "sektioner": [
+	 {"sektion": "Bokstäver 1",
+	  "text": "=\n" +
+	  "XJXXK GQPGY ÅLMEM FWJFÄ JHSZZ YÅYCU MBÖBJ CWKGG KRAVR\n" +
+	  "DTÅIÅ OUNJJ WWQSD UGMUQ PHPCÅ ÖAÄÖY SQMVM VLCCÅ CGÄGB\n" +
+	  "LJKJU NIXÅX AFHBH TDTMG IOGEC RSSJÅ EJXZC BPWBC ÄMROÄ\n" +
+	  "QMKQG HPZFF ="
+	 },
+	 {"sektion": "Bokstäver 2",
+	  "text": "=\n" +
+	  "FIÅCR KYXNG QZOBE ALPCÄ MTJÖÅ VHSWU YRFGK ÅÄJEN GÖQOZ\n" +
+	  "LJIUP XWCHM BVAMT IEYJR USÄZB COÖÄQ PBLXV WMHKF TAGSÅ\n" +
+	  "EFRGW CNÅMO ÖQUIA ZGKLY BPVTC HXWÄS EÅRYX ÄUNFH SKBQI\n" +
+	  "OCMVL JATPZ ="
+	 },
+	 {"sektion": "Bokstäver 3",
+	  "text": "=\n" +
+	  "XYMJS AWBCZ DÅLNU QVROÖ FEKGH IMÄJT HXÅYC WLDPK VATUC\n" +
+	  "RBNLQ MIZÖO EGFÄJ LPUKD ÅHXQI CGORY JZETB GNVJW ÖKAFÄ\n" +
+	  "OUYDC PTWÅÅ ZJMER BQIXF KÄMHA NÖGVÅ TDPBE UOHZN GRMIV\n" +
+	  "ÄCQAX YFÖWL ="
+	 },
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "1330 2462 7759 0144 6963 2588 7761 9493 1581 0626 3739\n" +
+	  "8248 9915 7670 8911 7332 5010 4847 6536 2207 8985 3943\n" +
+	  "0420 2625 7971 3893 5464 3002 4540 1858 2625 7147 ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "4761 3258 9470 0965 1820 7346 8092 5207 6134 2538 1609\n" +
+	  "4483 7467 3219 8150 9746 8391 6824 0935 1673 5082 4617\n" +
+	  "2968 1597 3206 7459 6024 8315 9741 5972 0831 2583 ="
+	 },
+	 {"sektion": "Blandning",
+	  "text": "=\n" +
+	  "GIGOZ BJHRJ 2/3 CDMCV ÅTETL 4,5 FAFSY UNIXX 5.8\n" +
+	  "QKDQT ÅZOÅÖ 3-4 RPGUG NBBEK 1x1 WVLÖW RSCHC 2-8\n" +
+	  "XYQAY MSIMD 10? HPAEP JKOJB 6,0 FTUFW NÄVZÄ &10\n" +
+	  "MKÅYM ÖJCXJ 7-9 ÄGÅGW UDCYC 6/9 QSMPS LZJGG 24?\n" +
+	  "ACYÄC ÅKBWK 7x7 ="
+	 },
+	 {"sektion": "Siffror 3",
+	  "text": "=\n" +
+	  "80282 37573 54504 96596 24204 78758 43430 29291 60650\n" +
+	  "38938 41747 59059 22616 44838 32302 72172 98958 07760\n" +
+	  "35453 86586 07970 61761 88033 69796 14014 21521 ="
+	 },
+	 {"sektion": "Siffror 4",
+	  "text": "=\n" +
+	  "41749 25029 86303 71150 96476 32527 80819 42303 56581\n" +
+	  "39828 04649 73536 18912 26757 61609 38703 45164 92820\n" +
+	  "58351 64212 76587 74904 58981 03453 17267 90493 = +"
+	 }
+     ]
+    },
+    {"lektion": "47",
+     "sektioner": [
+	 {"sektion": "Bokstäver",
+	  "text": "=\n" +
+	  "VEKÄZ JDTAR OÄQWD ÖVUGF EQÖKO THDYH XJÖQJ ABKÅG VJAOI\n" +
+	  "UBGÄN NGYLE QDPSI DFEOÅ FETGP XÅQIC HFÄEH PÅUIB ZRÖYX\n" +
+	  "KHTÄL KRMFS JÅUIZ ÄKSCH WCXZY VQCHT JBUKÅ ÄETVI PDBRV\n" +
+	  "EZXHU RAWJZ IASTI ZTEDA ÅFAGM ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  "?,/_& -?.&_ ,-./& _-?./ _,&-. /&,?_ ./-,_ &.,-?\n" +
+	  "_./-, ?&_.- ,?&/_ .,-&/ _.-?& /_,-? ./_-& ?._,-\n" +
+	  "&?/., _&-., _.?/- ,&_./ /-,?& &/_.? ?&-,_ &./?,\n" +
+	  "-?&/_ ,.?&/ ="
+	 },
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "13542 72480 26995 80633 38019 94764 57025 41802 01355\n" +
+	  "61792 24653 81391 15874 79523 49120 83652 68134 52913\n" +
+	  "90242 50681 74670 61793 47085 08697 36870 47598 ="
+	 },
+	 {"sektion": "Klartext 1",
+	  "text": "=\n" +
+	  "FÖR ATT BLI EN GOD SKOGSHUGGARE BÖR MAN GÖRA SINA\n" +
+	  "FÖRSTA SÅGSPÅN VID UNGA ÅR . JAG VAR TVUNGEN ATT\n" +
+	  "GIFTA MIG MED HENNE , FÖR HON VAR MED LÄGENHET . EN\n" +
+	  "FÅGEL I HANDEN GÖR DET SVÅRARE ATT SNYTA SIG . ="
+	 },
+	 {"sektion": "Blanding",
+	  "text": "=\n" +
+	  "LSSLJ 585 OVOVC //- GGXHX 020 FZFZM &.&\n" +
+	  "DÅÅDI 499 BUBUÄ ?_? KQKQN 177 JUJYÖ ,-,\n" +
+	  "EPPEA 363 RWWRT ._. HÄÄHA 144 CMMCY ,_,\n" +
+	  "NÅNÅI 668 TZZTÖ &&/ WCWCO 202 JLLJP ??-\n" +
+	  "GYGYV 979 USUSR /.. ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "494 633 110 292 545 737 880 757 212 393 474 131 686\n" +
+	  "233 505 484 911 232 676 838 991 020 455 636 787 212\n" +
+	  "848 969 050 877 191 464 022 959 686 525 343 070 818\n" +
+	  "696 747 050 ="
+	 },
+	 {"sektion": "Klartext 2",
+	  "text": "=\n" +
+	  "VI VATTNADE VID NEVANS FLOD VÅR FRUSTANDE KUSE 85931\n" +
+	  "67420 31,52,44 18/26 3/4 INGEN RÄDDER FÖR COOKABURRAN\n" +
+	  "HICKADE DEN MUSKETÖRLILA GRÄSANDEN / RÅTTSVANSEN OCH\n" +
+	  "SKRATTMÅSEN / 36,41/89 72,25 . FÖRLÅT MIN KÄRE TUPP ,\n" +
+	  "COLUMBII ÄGG ÄR KLÄCKT . 191628 ? 22/12 1969 ILLINOIS\n" +
+	  "/ 65,83 / WAKIKUYU PH-VÄRDE PFALZ KNÄVELBORR WÄXJÖ\n" +
+	  "JÄRNÖRT LAC DU BOURGET 58,94 JÄRPÅS ? VILLANOVA LAZIO .\n" +
+	  "PREFIX SÖUL NISSASTIGEN / FLUGZEUG / = +"
+	 }
+     ]
+    },
+    {"lektion": "48",
+     "sektioner": [
+	 {"sektion": "Bokstäver",
+	  "text": "=\n" +
+	  "ÅTGQX ÖVRYL UQSJL SOÖNR IVÄKV AWGZD SVIUZ YUÖCW YAJXW\n" +
+	  "ATHXZ XSKAU ZEÅZH KÄADW ÅTNMX EÖCRT PMGKM BPYDK XCÅED\n" +
+	  "NÅVNJ ÖWITD ZSWHI AFBOP XJUYU RLAEB ZWÖHZ ULYNW PBLÖÖ\n" +
+	  "HAWNF KCRDZ FMIUQ ÖUGÄY XVÄHF ="
+	 },
+	 {"sektion": "Siffror 1",
+	  "text": "=\n" +
+	  "40615 82760 14398 57296 68031 85237 01427 54893 16029\n" +
+	  "68542 70169 35884 27156 43018 62703 81305 94271 56439\n" +
+	  "98327 15643 79502 37864 01750 23970 49185 92946 ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  ",?&_? /-/&. &_?&. ,-_,. _/?.? &-./& /_-./ -,?.-\n" +
+	  ".,_,? /?-/. &-,&_ /-?.. ,_&-, ?./-? &._&/ ,/-.-\n" +
+	  ".?,_, -./?. &,_&. ?/,/- _/?&? ,_?., &-?/& ._/-/\n" +
+	  "_&.&, .?,?- ="
+	 },
+	 {"sektion": "Kontrollprov 7",
+	  "text": "=\n" +
+	  "XYMJS AWBCZ DÅLNU QVROÖ FEKGH IMÄJT HXÅYC WLDPK VATUC\n" +
+	  "RBNLQ MIZÖO EGFÄJ LPUKD ÅHXQI CGORY JZETB GNVJW ÖKAFÄ =\n" +
+	  "/?_,& /.&-? ?.&,_ _/-._ ?,-/. =\n" +
+	  "35816 47259 13960 27630 48150 27849 ="
+	 },
+	 {"sektion": "Klartext",
+	  "text": "=\n" +
+	  "OZON QUICK FLYGFISK USEDOM GÖRTZ THRILLER RAILWAYS\n" +
+	  "OULUJÄRVI YANG KYFFHÄUSER ZEPHYR JOLBÄNNING LAZZARO\n" +
+	  "KATZENJAMMER DIPOL PLUGGERS BLÅBÄRSPAJ MUSTAFA EL\n" +
+	  "DULCE KAPUTT ? NEW MASUGN 5789 HYENA 491 EXPORT\n" +
+	  "DISCOFIL √ x DISCOFIL . KOLHYDRAT / FRU FILMIA / ZWEI\n" +
+	  "312046 ZUM 48 QUARTER KEY-SET RAMLÖSA . 360 PEUGEOT\n" +
+	  "081725 SPEX HYENA 291030 KUGGVÄ= # KUGGVÄXEL ,\n" +
+	  "PETRUSJKA / GHOST / ="
+	 },
+	 {"sektion": "Siffror 2",
+	  "text": "=\n" +
+	  "64721 76321 20297 89431 24263 63848 58328 62310 13889\n" +
+	  "57206 59245 79385 91397 54492 79405 61971 63541 02469\n" +
+	  "04085 54836 40156 08867 46807 19703 51936 57057 = +"
+	 }
+     ]
+    },
+    {"lektion": "49",
+     "sektioner": [
+	 {"sektion": "Meddelande 1",
+	  "text": "BA DE VL 152354 7 =\n" +
+	  "RWRWE PCVZO XTDSU UHQOG PLEMF XGWAI PCVZO ="
+	 },
+	 {"sektion": "Meddelande 2",
+	  "text": "BD DE SI 311917 9 =\n" +
+	  "YFYFL TJTSV SWVZY GLAZF ANCSP ETRKS CVKTP APMNH TJTSV ="
+	 },
+	 {"sektion": "Meddelande 3",
+	  "text": "VO DE VU 211346 6 =\n" +
+	  "SISIA PZIJH ABGZP NRAHS YFLMJ PZIJH ="
+	 },
+	 {"sektion": "Meddelande 4",
+	  "text": "VP DE BC 282212 8 =\n" +
+	  "YCYCH QKQMW LOXIG HFCSV YQBTQ LOPIZ UJQIF QKQMW ="
+	 },
+	 {"sektion": "Meddelande 5",
+	  "text": "VQ DE BB 191857 9 =\n" +
+	  "SISIJ IZVGM LXRGD AVLTT PZEDX DSWVK BMTWV LRDNM IZVGM ="
+	 },
+	 {"sektion": "Meddelande 6",
+	  "text": "VX DE BA 251223 7 =\n" +
+	  "DTDTE MULKN HXPLN WAKBE ALCWB KBLPA MULKN ="
+	 },
+	 {"sektion": "Meddelande 7",
+	  "text": "VY DE VJ 271021 8 =\n" +
+	  "JTJTG FCFBM IUWIO SXMBE AUHAO MOEIB NRAHS FCFBM ="
+	 },
+	 {"sektion": "Blandning",
+	  "text": "=\n" +
+	  "QVVQF 881 IXIXK -_- ÖDDÖT 353 PÄPÄB &_&\n" +
+	  "KEEKW 002 ZRZRA /?? GHHGL 636 QMQMF .,,\n" +
+	  "NBBNX 844 SCSCO /_/ UJJUD 155 AÅÅAW -?-\n" +
+	  "XÖXÖF 772 YEEYN ?_? GKGKI 919 TVVTH ..&\n" +
+	  "ÄDÄDB 773 FMFMO ,/, ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  "ILZTK FÖQLA NEXÄL PSHYR ELIJB NMATF LYZBA QUWLI JÖHAK\n" +
+	  "IMAKH GFTXQ LÅDSH DÖLKD CWKFA CÅTIK IMFKZ XBATR SQJBI\n" +
+	  "LPHWJ OXFMB LEFCZ KQPJL ÄBJYX IRZOR ÅBKOL IACDZ KPÖXE\n" +
+	  "DÅMFG NEIMF FWUVZ WYXIC COPSH ="
+	 },
+	 {"sektion": "Meddelande 7",
+	  "text": "BA DE VJ 031526 =\n" +
+	  "NU LYSSNAR VI TILL LEKTION NUMMER 49 ="
+	 },
+	 {"sektion": "Meddelande 7",
+	  "text": "SI DE BC 182105 =\n" +
+	  "OFTA FÖREFALLER KLARTEXT SVÅRARE ATT TA EMOT PÅ\n" +
+	  "TELEGRAFI ÄN MOTTAGNING AV KRYPTO ="
+	 },
+	 {"sektion": "Meddelande 7",
+	  "text": "VN DE VL 261328 =\n" +
+	  "KLARTEXTMEDDELANDEN HAR INGEN UPPGIFT PÅ GRUPPANTAL ="
+	 },
+	 {"sektion": "Siffror",
+	  "text": "=\n" +
+	  "04417 96962 18013 02851 64637 93703 39385 78538 79342\n" +
+	  "79405 75626 78129 18923 74592 82518 63948 24156 73161\n" +
+	  "20148 34065 46070 28391 85418 40586 15706 01635 79321\n" +
+	  "72091 73904 90245 57962 25648 ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  "?,/_& -?.&_ ,-./& _-?./ _,&-. /&,?_ ./-,_ &.,-?\n" +
+	  "_./-, ?&_.- ,?&/_ .,-&/ _.-?& /_,-? ./_-& ?._,-\n" +
+	  "&?/., = +"
+	 }
+     ]
     }
 ]
-
-
-
-
-
-
-     
