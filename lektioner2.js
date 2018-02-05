@@ -1284,9 +1284,9 @@ mtLektioner = [
 	 {"sektion": "Bokstäver 1",
 	  "text":"=\n" +
 	  "ÅÅAÖ ZMMN PSRP WWLT UOHU YEÅÅ KVKÄ QFQB IZDZ MMNR XÅÅL\n" +
-	  "WBWM YKKF BQÄQ APIP ÅEED KOKT SLÖS ÅKÅH EWMM VFVH WAWÖ\n" +
-	  "MDMÄ TXCX KÅSK RLMR QHFQ YWEY IMAM DPOD TÅWÅ ÄKNK FURU\n" +
-	  "MWFW VEVH KÖKA NPÅP SOIS XWUW ZLTZ ÅKQK XEIX ÖUNU MKMÄ ="
+	  "WBWM YKKF BQÄQ APIP ÅWWD KOKT SLÖS ÅKÅH EWMM VFVH WAWÖ\n" +
+	  "MDMÄ TXOX KÅSK RLMR QHFQ YWEY IMAM DPOD TÅWÅ ÄKNK FURU\n" +
+	  "MWFW VEVH KÖKA NPÅP SOIS XWUW ZLTZ ÅKQÅ XEIX ÖUNU MKMÄ ="
 	 },
 	 {"sektion": "Bokstäver 2",
 	  "text":"=\n" +
@@ -1318,7 +1318,7 @@ mtLektioner = [
 	 {"sektion": "Bokstäver 5",
 	  "text":"=\n" +
 	  "WFORW SMUMT EDÅVÅ BÖLPQ KÄMKX ÅNXMI YSFOM TEÄLP BWDUV\n" +
-	  "QKÖHA MÅWKO PRNÄZ ITFSU VMEWL OQZÅN SYMKR UPBAÅ LOQNW\n" +
+	  "QKÖHA MÅWKO PRNÄZ ITSFU VMEWL OQZÅN SYMKR UPBAÅ LOQNW\n" +
 	  "KITSK XNVEÅ ÅUHMF WLKZW ÖYPQN AÅODM ZXRTS HWÅÖE MKUOB\n" +
 	  "NYLPD EMIKÖ ÄAWÅQ KZXVF KHWUP DSYIÅ RNWIL QEAKB ÅÄMQW ="
 	 },

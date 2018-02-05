@@ -132,7 +132,7 @@ var app = new Vue({
 	    this.play = !this.play;
 	},
 	load: function(e) {
-	    this.message = this.sektion.text;
+	    this.message += this.sektion.text;
 	}
     }
 });
