@@ -10,7 +10,6 @@
     <script src="lib/vue.min.js"></script>
     <!-- <script src="https://mohayonao.github.io/web-audio-scheduler/build/web-audio-scheduler.min.js"></script> -->
     <script src="lib/web-audio-scheduler.min.js"></script>
-    <script src="lib/vue.progress-bar.min.js"></script>
     <script src="morsetab.js"></script>
     <script src="calltab.js"></script>
     <script>
@@ -32,14 +31,15 @@
       <span class="callsign" v-bind:style="{ color: resultColor }">{{ ecall }}</span>
     </p>
     <p>
-      <input type="text" :value="inputs.toUpperCase()" style="font-size: 18pt;"
+      <input type="text" :value="inputs.toUpperCase().trim()" style="font-size: 18pt;"
 	     id="inp"
 	     autofocus
 	     @keyup.enter="uinput"
 	     @keyup.esc="repeat"
+	     @keyup.space="repeat"
 	     @keydown.f5="playpause"
 	     @keydown.f6="repeat"
-	     @input="inputs = $event.target.value.toUpperCase()">
+	     @input="inputs = $event.target.value.toUpperCase().trim()">
       <!-- <input placeholder="type here ..." size="20" style="font-size: 18pt;"
 	     v-on:keypress="uinput" v-model="inputs" id="inp" /> -->
     </p>
@@ -91,7 +91,7 @@
     and even change the speed during play using the slider.
   </p>
   <p>
-    Pressing F6 or ESC repeats the call, but only once – just as
+    Pressing F6, ESC or space repeats the call, but only once – just as
     in Rufz and QRQ.
   </p>
   <p>
