@@ -2322,5 +2322,138 @@ mtLektioner = [
 	  "&?/., = +"
 	 }
      ]
+    },
+    {"lektion": "50",
+     "sektioner": [
+	 {"sektion": "Meddelande 1",
+	  "text": "BA DE SI 081612 17 =\n" +
+	  "GKGKH WXCQT TUUSK ZXHFK ZXNUR NBKIK WMCDB ANSLO ZFTFZ\n" +
+	  "YRQMW WTFJG JMPWT EUPQU NFFDL QWWZK SXRAE WXCQT ="
+	 },
+	 {"sektion": "Meddelande 2",
+	  "text": "VN DE VQ 081823 24 =\n" +
+	  "NFNFH IJGIX IYVMT ILGFO AYBWH NOKNI EKQEW YLILI OCKCU\n" +
+	  "BKEYL XCFOJ OTKCC RECSG QDQBC KUHLY DHBVR LEZJA CHRJL\n" +
+	  "PNEGM JOLVV KQRAW PENRP SNENC IJGIX ="
+	 },
+	 {"sektion": "Meddelande 3",
+	  "text": "BC DE VL 040621 12 =\n" +
+	  "LWLWD LFJKS YUYCH ILXKW MIHZC FKDFB XTQIO KKKNT IUBIR\n" +
+	  "XCFLW BZERO LFJKS ="
+	 },
+	 {"sektion": "Meddelande 4",
+	  "text": "VJ DE BB 160840 25 =\n" +
+	  "PKPKF GWROM BZDMA HPZZW EJDPE IULAU CNWWI YCXOR PGSIL\n" +
+	  "AARDV KXUDX NHBUV EIFCG UDCEU NSRBG GOTUB YSYTS GLEFV\n" +
+	  "RPSJE AYARI FEJRW NWVUK KIQOB FPFRN GWROM ="
+	 },
+	 {"sektion": "Meddelande 5",
+	  "text": "VP DE SI 300512 12 =\n" +
+	  "ZIZIK QDMFO VAXVW VKDOP HAKBN GZDLG ADTFF SQQFV XANON\n" +
+	  "NHLDJ CEQUS QDMFO ="
+	 },
+	 {"sektion": "Meddelande 6",
+	  "text": "VL DE BC 011345 19 =\n" +
+	  "UNUNA XSBUF YOTQB IDKFF LKQKW ZJMVH KUEUS XCYEV DEKUA\n" +
+	  "XSBUF DJMKL HPQSO TSHYZ VUXUQ GYXVZ VNJKS KKDPJ SAKFX\n" +
+	  "XSBUF ="
+	 },
+	 {"sektion": "Kontrollprov i 30-takt",
+	  "text": "BA DE VN 150943 25 =\n" +
+	  "LDLDE BBUYD MYLBE CDNLS JYKLR GBQLJ CDRMK VQJXF BLHRN\n" +
+	  "AKFLZ TRYRL RJCBX WUFNZ XDRIK XYAUW AYRIH GSUGN FVBPN\n" +
+	  "ZYDBQ FUCJG RGMTL NSXVO CLGII BMZMI BBUYD = +"
+	 },
+	 {"sektion": "Meddelande 7",
+	  "text": "=\n" +
+	  "DOCENT SQUADRON OF FIGHTERS / BRABAZON / WELCHE ? PRO\n" +
+	  "PATRIA WÄHREND 271624 STOCK-CAR / XANTIPPA / LASS DIR\n" +
+	  "ZEIT SERGEJ . HÅSJÖ KVIKKJOKK WIG-WAM ARABESQUES ? DE\n" +
+	  "TRABAJO / WEEKEND / 29/7 EL YAE # QUARTO BH-VÄRDE\n" +
+	  "54297 GRATINERAD ISCHS # ISCHIASVÄRK ÅBY , / BILEXPO /\n" +
+	  "SHANEWI FLYING CLIPPER 4711 BLIXTLÅS WORRY VÅFFELW\n" +
+	  "VÅFFELJÄRN SVERDLOVSK ? MOPEDFANTOM BASKET 65 MULLBÄNK\n" +
+	  "AVEC MBS ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  ",/, ?-_ ?,. /_& ?-. /-, _.& /-. &/, ._/ -,_\n" +
+	  "-.? &_? -/_ = +\n"
+	 }
+     ]
+    },
+    {"lektion": "51",
+     "sektioner": [
+	 {"sektion": "Bokstäver",
+	  "text": "=\n" +
+	  "64721 76321 20297 89431 24263 63848 58328 62310 13889 57206 59245 79385 91397\n" +
+	  "54492 79405 61971 63541 02469 04085 54836 40156 08867 46807 19703 51936 57057\n" +
+	  "32976 79805 71903 28152 20431 69418 ="
+	 },
+	 {"sektion": "Siffror",
+	  "text": "=\n" +
+	  "64721 76321 20297 89431 24263 63848 58328 62310 13889 57206 59245 79385 91397\n" +
+	  "54492 79405 61971 63541 02469 04085 54836 40156 08867 46807 19703 51936 57057\n" +
+	  "32976 79805 71903 28152 20431 69418 ="
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  "/+?&. _.-., =/?,& .=_-/ /,=?, ._=&/ +_,/? .&=.+ =,-_. &,/=/ -+._&\n" +
+	  "+?/+_ =&+/& ,&+.- -?&/+ -=/?, _-+=& ,_-+& -?/=, ,?&=- ?.-_. _,?=/\n" +
+	  "-_.=? _=/&, ,?/?= .&+?_ -+/+_ =/-.+ ,_&._ ?/=+- ="
+	 },
+	 {"sektion": "Meddelande 1",
+	  "text": "BA DE VJ 101035 7 =\n" +
+	  "SPSPK OZVCL EWMXO QOTVH PHHLP VHHJZ OZVCL ="
+	 },
+	 {"sektion": "Meddelande 2",
+	  "text": "MFL DE JIY 210125 9 =\n" +
+	  "NONOA NOWIL XSAZA GCQWZ KVSEQ SHIMT JTSZY YLLGH NOWIL ="
+	 },
+	 {"sektion": "Meddelande 3",
+	  "text": "BC DE VN 170724 7 =\n" +
+	  "DYDYG NAXTD FCAXQ WTBZZ RBJHT ZMQDH NAXTD ="
+	 },
+	 {"sektion": "Meddelande 4",
+	  "text": "VP DE BB 231609 8 =\n" +
+	  "JVJVC YIMPG JHAKO MKOCW ICJFN NVKHI DMKPF YIMPG ="
+	 },
+	 {"sektion": "Meddelande 5",
+	  "text": "VY DE BC 282325 10 =\n" +
+	  "PFPFH LKBKI CIAIQ EOERY MTEVI UNDKE YUPLY PIGRK QOVPM LKBKI ="
+	 },
+	 {"sektion": "Meddelande 6",
+	  "text": "BD DE VU 221636 9 =\n" +
+	  "IJIJB XYXOX XFVHG LLZIE LNDOC HUSMJ YUPLY EHUZI XYXOX ="
+	 },
+	 {"sektion": "Meddelande 7",
+	  "text": "JOV DE KGD 141254 11 =\n" +
+	  "VAVAD PYBPL MDUQK TCLMJ VBLIW KUYJK IPSDG FRSUT SVAQJ MPMZS PYBPL ="
+	 },
+	 {"sektion": "Meddelande 8",
+	  "text": "KNC DE KOR 231356 14 =\n" +
+	  "WXWXC VEXND TTMDN HLIIW DJKHZ MSTQM KDQDH EHUZI IWJBH MHORO WLBFO LFGZK\n" +
+	  "COCTH VEXND ="
+	 },
+	 {"sektion": "Meddelande 9",
+	  "text": "KQT DE JXV 200841 15 =\n" +
+	  "EAEAK ABXNZ XSMDL TQAFY DKSUY YSQML SKCIB NMPPZ PHKQM ESTHC NCBUP KIVTI\n" +
+	  "CQFZG UPMWY ABXNZ ="
+	 },
+	 {"sektion": "Meddelande 10",
+	  "text": "VY DE VP 260504 13 =\n" +
+	  "LHLHF HTANH CEZBG UNTIM WBOWZ ZIGNI MUJUW RGEAV DZBJK ZEVEG RUSPK EOCXB\n" +
+	  "HTANH ="
+	 },
+	 {"sektion": "Meddelande 11",
+	  "text": "JGH DE JII 192045 15 =\n" +
+	  "EKEKJ TZRVB VXNYV YNMAE TOKIW ZEKHU PTWBH KTPUJ ZMDQG PAVZT JMHNV UURIJ\n" +
+	  "ZFXGX XJSBE TZRVB ="
+	 },
+	 {"sektion": "Meddelande 12",
+	  "text": "BC DE VN 081838 7 =\n" +
+	  "QLQLH SRLLK SQXMO RDRAB CUKRV YFGMY SRLLK = +"
+	 }
+     ]
     }
 ]
