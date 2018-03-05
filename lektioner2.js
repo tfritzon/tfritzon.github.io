@@ -2455,5 +2455,232 @@ mtLektioner = [
 	  "QLQLH SRLLK SQXMO RDRAB CUKRV YFGMY SRLLK = +"
 	 }
      ]
+    },
+    {"lektion": "52",
+     "sektioner": [
+	 {"sektion": "Klartext",
+	  "text": "=\n" +
+	  "HON HÖLL STYVT PÅ DISCIPLINEN , MEN VAR EN GOD OCH\n" +
+	  "FÖRSTÅENDE MÄNNISKA . EN DAG SÅG HON SIG NÖDSAKAD ATT\n" +
+	  "STRAFFA EN UPPSTUDSIG LITEN GOSSE VID NAMN ANDERS\n" +
+	  "GENOM ATT LÅTA HONOM SITTA INNE I KLASSRUMMET PÅ RASTEN .\n" +
+	  "HAN VAR FAST BESLUTEN ATT FÅ SISTA ORDET , SÅ HAN SKREV\n" +
+	  "ÖVERST PÅ EN SIDA I RÄKNEBOKEN , FRÖKEN LUNDBERG ÄR EN\n" +
+	  "RIKTIG GAMMAL SKATA . NÄR DET VID SLUTET AV NÄSTA LEKTION\n" +
+	  "VAR DAGS FÖR FRÖKEN ATT SAMLA IN RÄKNEBÖCKERNA , HADE\n" +
+	  "ANDERS OPUS VARIT UTE OCH CIRKULERAT BLAND DE BEUNDRANDE\n" +
+	  "KLASSKAMRATERNA . VI VÄNTADE UNDER UPPHETSAD TYSTNAD PÅ\n" +
+	  "ATT ÅSKAN SKULLE SLÅ NER . MEN HÄRVID BEDROG VI OSS . UTAN\n" +
+	  "ATT MED EN MIN FÖRRÅDA VAD HON TÄNKTE , LÄSTE HON DET\n" +
+	  "BARNSLIGA KLOTTRET . MEN ANDERS ROPADE HON , DET ÄR JU\n" +
+	  "FANTASTISKT , INTE ETT ENDA ORD FELSTAVAT . ="
+	 },
+	 {"sektion": "Meddelande 1",
+	  "text": "BA DE SI 171405 =\n" +
+	  "UND FRÅN UND . FI LUFTLANDSÄTTNING VID SÖDRA MYREN .\n" +
+	  "CIRKA 100 MAN . LÄTTA MC INGÅR I DERAS UTRUSTNING ="
+	 },
+	 {"sektion": "Meddelande 2",
+	  "text": "BC DE SI 061320 P =\n" +
+	  "SVART VOLVO HAR FORCERAT VÅR SPÄRR VID RAVINEN .\n" +
+	  "ORDNA OMEDELBART VÄGSPÄRR VID ERT FÖRRÅD ="
+	 },
+	 {"sektion": "Meddelande 3",
+	  "text": "VV DE VO 031609 17 =\n" +
+	  "GRGRC KDAAT PESUA WDWXV ESGBS CWXCC EBBTV JBVSL SGFEE\n" +
+	  "CMKUH TJWUE AVZCH YETDJ PMLRY RQWKY ZXJTB KDAAT ="
+	 },
+	 {"sektion": "Meddelande 4",
+	  "text": "VX DE VW 011504 COL =\n" +
+	  "UND FRÅN UND . MINFÄLLNING FRÅN FLYGPLAN RAPPORTERAS\n" +
+	  "FRÅN HARSTENA . SVEPNING MÅSTE UTFÖRAS FÖRE NATTENS\n" +
+	  "OPERATIONER ="
+	 },
+	 {"sektion": "Meddelande 5",
+	  "text": "ZG DE BA 142015 18 =\n" +
+	  "AJAJD BCPMA MWGTZ WVPLB TEGFD NHHXK MSGGV SLSLI PUFZC\n" +
+	  "IKWSJ QLOIX OUVZP VLXUJ SNSOU UMQJO HPHWA LFJFV BCPMA ="
+	 },
+	 {"sektion": "Meddelande 6",
+	  "text": "BA DE VN 281500 =\n" +
+	  "UH FRÅN UH . SVÅRA TJÄLSKADOR PÅ VÄGEN SÖDER LÅNGSJÖN .\n" +
+	  "ENDAST FRAMKOMLIG MED LÄTTA FORDON . TUNG TRAFIK GÅR\n" +
+	  "ÖVER HARG - KULLA ="
+	 },
+	 {"sektion": "Meddelande 7",
+	  "text": "VL VN DE BA 062016 MBS =\n" +
+	  "SB FRÅN STRI . ÅSKNEDSLAG HAR SKADAT VÅR PERMANENTA\n" +
+	  "RADIOSTATION . TILLS VIDARE ANVÄNDES VÅR RESERVSTATION .\n" +
+	  "SVAGARE EFFEKT ="
+	 },
+	 {"sektion": "Meddelande 8",
+	  "text": "PI DE BC 172107 15 =\n" +
+	  "BABAG VARBM AWYON IHLXF WNAAS PFCRL GTUGX DFJBF YGGJD\n" +
+	  "NQOFZ XPNOX WBCWZ USWGA MOGQS VARBM ="
+	 },
+	 {"sektion": "Meddelande 9",
+	  "text": "VP DE BA 182015 =\n" +
+	  "UH FRÅN UH . FÄRJA ANLÄNDER HALUDDEN KL 2130 . SAMTLIGA\n" +
+	  "FORDON SKALL ÖVERSKEPPAS . DRIVMERS FINNS PÅ ÖN = +"
+	 }
+     ]
+    },
+    {"lektion": "53",
+     "sektioner": [
+	 {"sektion": "Nya tecken",
+	  "text": "~~~~~ ~~~~~ ~~~~~ ~~~~~ ~~~~~\n" +
+	  "@@@@@ @@@@@ @@@@@ @@@@@ @@@@@"
+	 },
+	 {"sektion": "Tecken",
+	  "text": "=\n" +
+	  "~~~~~ @@@@@ ~~~~@ @@@@~ ~~~@@ @@~~~ @@@~~\n" +
+	  "~@@@~ ~~@@~ ~@@~~ @@~~@ @~~@@ ~~@@~ ~@@~@\n" +
+	  "~@@~@ ="
+	 },
+	 {"sektion": "Klartext 1",
+	  "text": "~\n" +
+	  "DET ÄR ABSOLUT FÖRBJUDET ATT ANVÄNDA AMATÖRSTATIONEN\n" +
+	  "FÖR BEFORDRAN AV INTERNATIONELLA MEDDELANDEN FÖR ANNAN\n" +
+	  "PERSONS RÄKNING . QUM ? QTR 1014 =\n" +
+	  "HE AND HUNTOON ALSO ATTENDED THE ANNUAL NATIONAL\n" +
+	  "CONVENTION OF THE MEXICAN AMATEUR SOCIETY , AT MEXICO\n" +
+	  "CITY 23/5 1958 . PSE QSL SURE . QRK 2 - 4 + @"
+	 },
+	 {"sektion": "Klartext 2",
+	  "text": "~\n" +
+	  "BECAUSE OF THE LATENESS OF THE MAILING , WE ESTIMATED\n" +
+	  "TO OCDM THAT THEY MIGHT EXPECT BETWEEN 400 AND 500\n" +
+	  "RETURNS . QSX SM7AEC 3520 KHZ ? =\n" +
+	  "BERÖRDA FÖRVALTNINGAR KUNNA DOCK AVSTÅ FRÅN ATT TILLÄMPA\n" +
+	  "DETTA KRAV I FRÅGA OM STATIONER , SOM UTESLUTANDE\n" +
+	  "ANVÄNDA FREKVENSER ÖVER 100 MHZ + @"
+	 },
+	 {"sektion": "Klartext 3",
+	  "text": "~\n" +
+	  "RR ART 42 MOM 1004 - FÖRVALTNING SKALL VIDTAGA\n" +
+	  "ERFORDERLIGA ÅTGÄRDER FÖR KONTROLL AV DEN TEKNISKA\n" +
+	  "FÄRDIGHETEN HOS VARJE PERSON , SOM HANDHAR APPARATERNA\n" +
+	  "VID EN AMATÖRSTATION . QSX 3725 QSV =\n" +
+	  "INCIDENTALLY , THE OFFICIAL GOVERNMENT DELEGATIONS OF\n" +
+	  "MANY COUNTRIES WILL INCLUDE GENTLEMEN WHO ARE ALSO\n" +
+	  "RADIO AMATEURS . 18/9 1959 . + @"
+	 },
+	 {"sektion": "Klartext 4",
+	  "text": "~\n" +
+	  "VID SÄNDNING SKOLA AMATÖRSTATIONER MED KORTA\n" +
+	  "TIDSMELLANRUM GIVA SIN ANROPSSIGNAL , RR ART 42 MOM\n" +
+	  "1007 . DEN HÖGSTA EFFEKT SOM AMATÖRSTATIONER FÅ ANVÄNDA ,\n" +
+	  "SKALL BESTÄMMAS AV BERÖRDA FÖRVALTNINGAR =\n" +
+	  "THE TURNOUT AND GENERAL CONDUCT OF THE TEST , SAYS\n" +
+	  "VANCOUVER EC - VE7APH , WAS A PLEASANT SURPRISE . SRI\n" +
+	  "OB QRL QRX 1430 + @"
+	 },
+	 {"sektion": "Klartext 5",
+	  "text": "~\n" +
+	  "INOM FREKVENSBANDEN MELLAN 4000 - 23000 KHZ FÅ DOCK\n" +
+	  "ANROPSSIGNALERNA , DÅ MOTTAGNINGSFÖRHÅLLANDENA ÄRO\n" +
+	  "DÅLIGA , SÄNDAS MERA ÄN 3 GÅNGER , DOCK HÖGST 8 GÅNGER .\n" +
+	  "QSB ? =\n" +
+	  "APRIL 17 AND 18 WERE DAYS OF FEVERISH ACTIVITY AT THE\n" +
+	  "SOUTH PINELLAS E. D. STATION , W4SEA . ALL STATIONS WERE\n" +
+	  "SECURED AT 2037 + @"
+	 },
+	 {"sektion": "Klartext 6",
+	  "text": "~\n" +
+	  "SOMLIGA SAKER FÖRBÄTTRAS INTE MED TIDEN . HUSTRUR ÄR\n" +
+	  "ETT UNDANTAG . JU LÄNGRE DE ÄR GIFTA , DESTO BÄTTRE\n" +
+	  "BLIR DE I REGEL . EN TIO ÅR GAMMAL BIL ÄR OFTAST FÄRDIG\n" +
+	  "FÖR SOPTIPPEN . GLANSEN ÄR BORTA = +"
+	 }
+     ]
+    },
+    {"lektion": "54",
+     "sektioner": [
+	 {"sektion": "Bokstäver",
+	  "text": "=\n" +
+	  "UÄNJÖ GTHCJ ÄUBVG ÖTNBJ AFWRS QÅZKJ LÖPBD SZEXR TVÄEG QJÅAZ KQÄAÖ IVTNS XÅZON\n" +
+	  "PÖDKS GÄHSV ATVDJ KONVH CTXRE ÄSÅAE ÖWVTC HINÄH KOÅFW QÄXRC ÖPXCD SKATB NIVHF\n" +
+	  "XTCVD PÅZXC VTCFÄ JSKGD ONUBÖ ÄTJVH DQQWZ TVDSA HUBVG CFRXD ÅUNDI OPGJF YÄSJA\n" +
+	  "TCHXJ KPSLA ZCZÅT IVHNJ ÖONVJ TCUNG VTXGF ÄOPLK ÖRVTC HIFKD MRVTB AKDSI BUCTD\n" +
+	  "JSTRC ÄONKD FQZLX AADSG HXJÄU ÖPPWZ ="
+	 },
+	 {"sektion": "Meddelande 1",
+	  "text": "KON DE JDY 281547 8 =\n" +
+	  "GKGKH HAXCG YDWSD VHCFL RBIEK DEETO TSUQZ HAXCG =\n"
+	 },
+	 {"sektion": "Meddelande 2",
+	  "text": "VX DE SI 260047 9 =\n" +
+	  "LGLGF XOEIE YNTSI QPQPT DPJWV EIRAX YVSBJ STNFR XOEIE ="
+	 },
+	 {"sektion": "Meddelande 3",
+	  "text": "VZ DE BC 111748 8 =\n" +
+	  "LVLVA LCNVC TTYRH EJFOH QUYUM NCDBN ALYQZ LCNVC ="
+	 },
+	 {"sektion": "Meddelande 4",
+	  "text": "BA DE VW 071107 10 =\n" +
+	  "KWKWG NFMDJ WRTZS BGKOP LYLRJ IDAYC DLQCH AFROK PEOVV NFMDJ ="
+	 },
+	 {"sektion": "Meddelande 5",
+	  "text": "KIU DE JXG 181724 12 =\n" +
+	  "KIKIH FLXLB JJMLW DIMSA KBTGJ GBYXM CVQFX QNHGM XLOAD JPVWH EFAVB FLXLB ="
+	 },
+	 {"sektion": "Meddelande 6",
+	  "text": "KOU DE MIE 250834 15 =\n" +
+	  "LCLCE DUXSF KBSFS WGIWN DURXM YPVQQ YVCFR FDFMY NEZUH YZFSK OFDQN FNGLQ\n" +
+	  "DUXSF HDNCJ DUXSF ="
+	 },
+	 {"sektion": "Meddelande 7",
+	  "text": "MIZ DE KBO 170629 14 =\n" +
+	  "BVBVG OYGAM UWMNG VOLCQ BRRKJ HNDCJ IYAUO OYNTF INRDO BTNHK OZVTN ONNGK\n" +
+	  "LOEIX OYGAM ="
+	 },
+	 {"sektion": "Meddelande 8",
+	  "text": "VP DE BB 162316 9 =\n" +
+	  "RTRTF XZTQW GNCGC MUHUY DAWPC LROLJ QEYIK QYTAY XZTQW ="
+	 },
+	 {"sektion": "Meddelande 9",
+	  "text": "VY DE SI 092350 12 =\n" +
+	  "UWUWJ RGXEE EKDHZ NHBSP NLWHM UZCAX EVSLM CHEHE ALZSR FJYEM KBEUF RGXEE ="
+	 },
+	 {"sektion": "Meddelande 10",
+	  "text": "KPX DE JON 052245 9 =\n" +
+	  "VSVSE BEVOE JXIXY URNKL MRLJB FKEUC DNPMJ OLBAU BEVOE ="
+	 },
+	 {"sektion": "Meddelande 11",
+	  "text": "KDN DE MZY 291326 8 =\n" +
+	  "AWAWJ HANCI BBCLN UTJSO DGFQZ VPGUX NBFFW HANCI ="
+	 },
+	 {"sektion": "Meddelande 12",
+	  "text": "JPK DE MYU 101810 9 =\n" +
+	  "NRNRK GEEYK AJMNY SMETR KQCNR BZEDS WAQLP IWXTY GEEYK ="
+	 },
+	 {"sektion": "Meddelande 13",
+	  "text": "VX DE BA 212231 7 =\n" +
+	  "AJAJA SMETR KQCNR JQHFI GIIQA QFPAV SMETR ="
+	 },
+	 {"sektion": "Meddelande 14",
+	  "text": "VP DE BC 091259 8 =\n" +
+	  "JMJMJ ZYYTY PPVUL QQKHJ XESWQ VFCKI VYHBI ZYYTY ="
+	 },
+	 {"sektion": "Meddelande 15",
+	  "text": "VJ DE BA 182045 =\n" +
+	  "STRI FRÅN STRI . FRAMRYCK TILL I HÖJD MED UPK 56 . KVARSTANNA DÄR OCH BEFÄST\n" +
+	  "STÄLLNINGARNA ="
+	 },
+	 {"sektion": "Meddelande 16",
+	  "text": "VN DE BC 261820 =\n" +
+	  "UH FRÅN UH . REP AV FORDON UTFÖRES PÅ ERIKSSONS VERKSTAD . BESTÄLLNING GENOM\n" +
+	  "TYGOFF . FORDONEN SKALL NOGGRANT RENGÖRAS FÖRE INLÄMNING ="
+	 },
+	 {"sektion": "Meddelande 17",
+	  "text": "KRO DE MEG 031725 15 =\n" +
+	  "UGUGC BBLWF FBSLY HYBUS EXPCI OLTOC FPMWX LCVLM QWIIH AQKJH JTYDN SQRUM\n" +
+	  "TJWHQ JSTEI BBLWF ="
+	 },
+	 {"sektion": "Meddelande 18",
+	  "text": "VL DE BA 192310 P =\n" +
+	  "STRI , SB FRÅN STRI . NI SKALL FR O M = +"
+	 }
+     ]
     }
 ]
