@@ -2126,10 +2126,10 @@ mtLektioner = [
 	 {"sektion": "Blandning",
 	  "text": "=\n" +
 	  "GIGOZ BJHRJ 2/3 CDMCV ÅTETL 4,5 FAFSY UNIXX 5.8\n" +
-	  "QKDQT ÅZOÅÖ 3-4 RPGUG NBBEK 1x1 WVLÖW RSCHC 2-8\n" +
+	  "QKDQT ÅZOÅÖ 3-4 RPGUG NBBEK 1_1 WVLÖW RSCHC 2-8\n" +
 	  "XYQAY MSIMD 10? HPAEP JKOJB 6,0 FTUFW NÄVZÄ &10\n" +
 	  "MKÅYM ÖJCXJ 7-9 ÄGÅGW UDCYC 6/9 QSMPS LZJGG 24?\n" +
-	  "ACYÄC ÅKBWK 7x7 ="
+	  "ACYÄC ÅKBWK 7_7 ="
 	 },
 	 {"sektion": "Siffror 3",
 	  "text": "=\n" +
