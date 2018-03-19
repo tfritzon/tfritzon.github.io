@@ -2288,7 +2288,7 @@ mtLektioner = [
 	  "XÖXÖF 772 YEEYN ?_? GKGKI 919 TVVTH ..&\n" +
 	  "ÄDÄDB 773 FMFMO ,/, ="
 	 },
-	 {"sektion": "Tecken",
+	 {"sektion": "Bokstäver",
 	  "text": "=\n" +
 	  "ILZTK FÖQLA NEXÄL PSHYR ELIJB NMATF LYZBA QUWLI JÖHAK\n" +
 	  "IMAKH GFTXQ LÅDSH DÖLKD CWKFA CÅTIK IMFKZ XBATR SQJBI\n" +
