@@ -3,7 +3,7 @@ var app = new Vue({
     data: {
         message: '',
         freq: 670,
-        speed: 100,
+        speed: 80,
         farnsworth: 80,
 	attack: 0.005,
 	release: 0.005,
@@ -121,8 +121,9 @@ var app = new Vue({
 	},
 	send: function(e) {
 	    if(this.morseQueue.length <= 0) {
-		for(i in this.message) {
-		    this.morseQueue.push(this.message[i].toUpperCase());
+		s = "   " + this.message;
+		for(i in s) {
+		    this.morseQueue.push(s[i].toUpperCase());
 		}
 	    } else {
 		this.play = true;
