@@ -2364,7 +2364,7 @@ mtLektioner = [
 	  "AKFLZ TRYRL RJCBX WUFNZ XDRIK XYAUW AYRIH GSUGN FVBPN\n" +
 	  "ZYDBQ FUCJG RGMTL NSXVO CLGII BMZMI BBUYD = +"
 	 },
-	 {"sektion": "Meddelande 7",
+	 {"sektion": "Klartext",
 	  "text": "=\n" +
 	  "DOCENT SQUADRON OF FIGHTERS / BRABAZON / WELCHE ? PRO\n" +
 	  "PATRIA WÄHREND 271624 STOCK-CAR / XANTIPPA / LASS DIR\n" +
