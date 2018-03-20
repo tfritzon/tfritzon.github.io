@@ -2295,16 +2295,16 @@ mtLektioner = [
 	  "LPHWJ OXFMB LEFCZ KQPJL ÄBJYX IRZOR ÅBKOL IACDZ KPÖXE\n" +
 	  "DÅMFG NEIMF FWUVZ WYXIC COPSH ="
 	 },
-	 {"sektion": "Meddelande 7",
+	 {"sektion": "Meddelande 8",
 	  "text": "BA DE VJ 031526 =\n" +
 	  "NU LYSSNAR VI TILL LEKTION NUMMER 49 ="
 	 },
-	 {"sektion": "Meddelande 7",
+	 {"sektion": "Meddelande 9",
 	  "text": "SI DE BC 182105 =\n" +
 	  "OFTA FÖREFALLER KLARTEXT SVÅRARE ATT TA EMOT PÅ\n" +
 	  "TELEGRAFI ÄN MOTTAGNING AV KRYPTO ="
 	 },
-	 {"sektion": "Meddelande 7",
+	 {"sektion": "Meddelande 10",
 	  "text": "VN DE VL 261328 =\n" +
 	  "KLARTEXTMEDDELANDEN HAR INGEN UPPGIFT PÅ GRUPPANTAL ="
 	 },
