@@ -87,24 +87,24 @@ var app = new Vue({
 			case '.':
 			    this.amp.gain.setValueAtTime(0, t);
 			    this.amp.gain.linearRampToValueAtTime(1, t+this.attack);
-			    t += this.dit;
+			    t += this.dit-this.release;
 			    this.amp.gain.setValueAtTime(1, t);
 			    this.amp.gain.linearRampToValueAtTime(0, t+this.release);
-			    t += this.espace;
+			    t += this.espace+this.release;
 			    break;
 			case '-':
 			    this.amp.gain.setValueAtTime(0, t);
 			    this.amp.gain.linearRampToValueAtTime(1, t+this.attack);
-			    t += this.dah;
+			    t += this.dah-this.release;
 			    this.amp.gain.setValueAtTime(1, t);
 			    this.amp.gain.linearRampToValueAtTime(0, t+this.release);
-			    t += this.espace;
+			    t += this.espace+this.release;
 			    break;
 			case '_':
 			    t += this.dit*1.5;
 			    break;
 			case ' ':
-			    t += this.wspace;
+			    t += this.wspace-this.espace;
 			    break;
 			}
 		    }
@@ -112,7 +112,7 @@ var app = new Vue({
 	    } else {
 		this.c = '';
 	    }
-	    t += this.cspace;
+	    t += this.cspace-this.espace;
 	    this.sched.insert(t, this.runner);
 	},
 	clear: function(e) {
