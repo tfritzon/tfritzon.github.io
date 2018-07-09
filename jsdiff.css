@@ -1,0 +1,10 @@
+del {
+	text-decoration: none;
+	color: #b30000;
+	background: #fad0d0;
+}
+ins {
+	background: #e0f2b2;
+	color: #406619;
+	text-decoration: none;
+}
