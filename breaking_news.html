@@ -1,0 +1,128 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="jsdiff.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Breaking News on CW</title>
+    <script src="lib/vue.min.js"></script>
+    <script src="lib/web-audio-scheduler.min.js"></script>
+    <script src="lib/vue.progress-bar.min.js"></script>
+    <script src="lib/vue-resource.min.js"></script>
+    <script src="lib/jsdiff.js"></script>
+    <script src="morsetab.js"></script>
+  </head>
+  </body>
+  <div id="app">
+    <!-- <p style="height: 50px; font-size: 24pt;">{{ sending }}</p> -->
+    <p v-html="dmessage"> {{ dmessage }}</p>
+    <textarea placeholder="type here ..."
+      cols="80" rows="10" v-model="message" id="inp"></textarea><br />
+    <progress-bar v-model="progress" style="width: 660px;"></progress-bar>
+    <p>
+      <button v-on:click="start">START</button>
+      <button v-on:click="playpause">{{playstate}}</button>
+      <button v-on:click="clear">RESET</button>
+      <button v-on:click="check">RÄTTA</button>
+    </p>
+    <p>
+        <table width="700px">
+          <tr>
+            <td>Frequency:</td>
+            <td>
+              <datalist id="fticks">
+                <option value="220" label="220">
+                <option value="330">
+                <option value="440">
+                <option value="550">
+                <option value="660">
+                <option value="770">
+                <option value="880" label="880">
+                <option value="990">
+                <option value="1100">
+                <option value="1210">
+                <option value="1320">
+                <option value="1430">
+                <option value="1540">
+                <option value="1650">
+                <option value="1760" label="1760">
+              </datalist>
+              <font size="2">220 Hz</font>
+              <input type="range" min="220" max="1760" value="220"
+		     list="fticks" style="width: 400px" v-model="freq"/>
+              <font size="2">1760 Hz</font>
+            </td>
+            <td>
+              <span>{{freq}} Hz</span>
+            </td>
+          </tr>
+          <tr>
+            <td>Speed:</td>
+            <td>
+              <datalist id="sticks">
+                <option value="20" label="20">
+                <option value="30">
+                <option value="40" label="40">
+                <option value="50">
+                <option value="60" label="60">
+                <option value="70">
+                <option value="80" label="80">
+                <option value="90">
+                <option value="100" label="100">
+                <option value="110">
+                <option value="120" label="120">
+                <option value="130">
+                <option value="140" label="140">
+                <option value="150">
+                <option value="160" label="160">
+                <option value="170">
+                <option value="180" label="180">
+                <option value="190">
+                <option value="200" label="200">
+              </datalist>
+              <font size="2">20 t/min</font>
+              <input type="range" min="20" max="200" value="20" step="5"
+		     list="sticks" style="width: 400px"
+		     v-model.number="speed"/>
+              <font size="2">200 t/min</font>
+            </td>
+            <td>
+              <span>{{speed}} t/min</span>
+            </td>
+          </tr>
+          <tr>
+            <td>Farnsworth:</td>
+            <td>
+              <font size="2">20 t/min</font>
+              <input type="range" min="20" max="200" value="20" step="5"
+		     list="sticks" style="width: 400px"
+		     v-model.number="farnsworth"/>
+              <font size="2">200 t/min</font>
+            </td>
+            <td>
+              <span>{{farnsworth}} t/min</span>
+            </td>
+          </tr>
+        </table>
+      </p>
+  </div>
+<p>När du trycker på start laddas senaste nytt från sr.se och sänds i den
+  hastighet som ställts in. Skriv in den mottagna texten i rutan. När texten
+  är färdigsänd, tryck på rätta varpå du får se felen i texten.</p>
+<p>
+  Vissa tecken representeras annorlunda
+  här för att lättare kunna skriva dem på ett vanligt tangentbord:
+  <table>
+    <tr><th>Tecken</th><th>Betydelse</th><th>Här</th></tr>
+    <tr><td>√</th><td>vänta</th><td>&</td></tr>
+    <tr><td><sub>x</sub></th><td>repetition</th><th>_</th></tr>
+    <tr><td></th><td>felslagning</th><th>#</th></tr>
+</table>
+</p>
+<p>Detta träningsprogram bygger på SM0UTYs ypperliga WebCW som du hittar <a href="https://hin.github.io/webcw/">här</a> och är lite småputsat av SA0LAT.</p>
+<p>Vill du ha vanliga lektioner? <a href="main.html">WebCW</a></p>
+<p>Looking for a call sign training game? <a href="qrq.html">WebQRQ</a></p>
+<script src="bnews.js"></script>
+<body>
+</html>
