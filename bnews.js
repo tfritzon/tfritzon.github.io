@@ -81,8 +81,8 @@ var app = new Vue({
 	wspace: function () { return 7*this.fdit },
 	sending: function() { return (this.c + this.morseQueue.join('')).substr(0,36) },
 	progress: function() {
-	    if(this.message.length > 0)
-		return 1-(this.morseQueue.length/this.message.length);
+	    if(this.smessage.length > 0)
+		return 1-(this.morseQueue.length/this.smessage.length);
 	    else
 		return 0;
 	},
