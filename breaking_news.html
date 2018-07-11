@@ -3,6 +3,7 @@
   <head>
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous"> -->
     <link rel="stylesheet" href="jsdiff.css">
+    <link rel="stylesheet" href="bnews.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Breaking News on CW</title>
@@ -18,7 +19,8 @@
     <!-- <p style="height: 50px; font-size: 24pt;">{{ sending }}</p> -->
     <p v-html="dmessage"> {{ dmessage }}</p>
     <textarea placeholder="type here ..."
-      cols="80" rows="10" v-model="message" id="inp"></textarea><br />
+	 cols="80" rows="10" v-model="message" id="inp"></textarea>
+    <br />
     <progress-bar v-model="progress" style="width: 660px;"></progress-bar>
     <p>
       <button v-on:click="start">START</button>
@@ -105,15 +107,33 @@
             </td>
           </tr>
         </table>
-      </p>
+    </p>
+    <p>
+      Telegram: <select v-model="currId">
+	<option v-for="t in incNews" :value="t.id">{{ t.published }}</option>
+      </select>
+    </p>
+    <p>
+      <hr/>
+  <ul id="rcvt">
+    <li v-for="t in rcvNews" v-html="t.rendered">
+      {{ t.published }} | {{ t.headline }}<br/>
+      {{ t.summary }}
+    </li>
+  </ul>
+  <hr/>
+</p>
   </div>
-<p>När du trycker på start laddas senaste nytt från sr.se och sänds i den
-  hastighet som ställts in. Skriv in den mottagna texten i rutan. När texten
-  är färdigsänd, tryck på rätta varpå du får se felen i texten.</p>
+
+<p>
+  Välj ett telegram baserat på publiceringstid i menyn ovan. När du trycker på start
+  sänds den sänds i den hastighet som ställts in. Skriv in den mottagna texten i rutan.
+  När texten är färdigsänd, tryck på rätta varpå du får se felen i texten.</p>
 
 <p>Detta träningsprogram bygger på SM0UTYs ypperliga WebCW som du hittar <a href="https://hin.github.io/webcw/">här</a> och är lite småputsat av SA0LAT.</p>
 <p>Vill du ha vanliga lektioner? <a href="main.html">WebCW</a></p>
 <p>Looking for a call sign training game? <a href="qrq.html">WebQRQ</a></p>
+
 <script src="bnews.js"></script>
 <body>
 </html>

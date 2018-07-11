@@ -12,7 +12,13 @@ var app = new Vue({
 	c: '',
 	morseQueue: [],
 	play: true,
-	morsetab: morseTable
+	morsetab: morseTable,
+	incomingNews: new Map(),
+	currId: '',
+	currNews: '',
+	incNews: [],
+	rcvNews: [],
+	timer: ''
     },
     filters: {
 	uppercase: function(v) {
@@ -38,6 +44,9 @@ var app = new Vue({
 
 	Vue.use(VueResource);
 	Vue.use(JsDiff);
+
+	this.loadNews();
+	this.timer = setInterval(this.loadNews, 60000);
     },
     watch: {
 	freq: function(f) {
@@ -55,6 +64,12 @@ var app = new Vue({
 	},
 	message: function(s) {
 	    this.message = s.toUpperCase();
+	},
+	currId: function(id) {
+	    console.log(id);
+	    this.currNews = this.incomingNews.get(id);
+	    this.smessage = this.renderTelegram(this.currNews);
+	    console.log(this.incomingNews.get(id));
 	}
     },
     computed: {
@@ -138,22 +153,30 @@ var app = new Vue({
 	    diff = JsDiff.diffChars(this.smessage, this.message);
 	    console.log(diff);
 	    this.dmessage = JsDiff.convertChangesToXML(diff);
+	    this.rcvNews = this.rcvNews.concat([this.currNews]);
 	},
 	start: function(e) {
+	    this.message = '';
 	    this.dmessage = '';
+	    this.send(e);
+	},
+	loadNews: function() {
 	    this.$http.get('https://api.sr.se/api/rss/program/83').then(resp => {
 		dom = this.parseXml(resp.body);
 		console.log(dom);
-		m = 'QTC DE SR SR = ' +
-		    dom.firstElementChild.children[8].children[1].textContent +
-		    " = " + dom.firstElementChild.children[8].children[2].textContent + ' = +'
-		div = document.createElement("div");
-		div.innerHTML = m
-		m = div.textContent || div.innerText || '';
-		this.smessage = this.translate(m);
+		telegrams = this.parseRSS(dom);
+		console.log(telegrams);
+
+		this.incNews = telegrams.concat(this.incNews);
+		for(t of telegrams) {
+		    console.log(t.id);
+		    this.incomingNews.set(t.id, t);
+		}
+
+		this.rssdom = dom;
 	    }, error => {
 		console.error(error);
-	    }).then(x => { this.send(e) });
+	    });
 	},
 	send: function(e) {
 	    if(this.morseQueue.length <= 0) {
@@ -165,11 +188,20 @@ var app = new Vue({
 		this.play = true;
 	    }
 	},
+	renderTelegram: function(t) {
+	    m = 'QTC DE SR SR = ' + t.headline.toUpperCase() + " = " +
+		this.stripHTML(t.summary).toUpperCase() + " = +";
+
+	    return m;
+	},
+	stripHTML: function(s) {
+	    div = document.createElement("div");
+	    div.innerHTML = s
+
+	    return div.textContent || div.innerText || '';
+	},
 	playpause: function(e) {
 	    this.play = !this.play;
-	},
-	load: function(e) {
-	    this.message += this.sektion.text;
 	},
 	parseXml: function(xml) {
 	    var dom = null;
@@ -192,6 +224,40 @@ var app = new Vue({
 	    else
 		alert("cannot parse xml string!");
 	    return dom;
+	},
+	parseRSS: function(rss) {
+	    var telegrams = [];
+
+	    rtop = rss.firstElementChild
+	    for(var i= 8; i < rtop.childElementCount; i++) {
+		elem = rtop.children[i];
+		if(elem.childElementCount < 9) {
+		    continue;
+		}
+		console.log(elem);
+		id = elem.firstElementChild.textContent;
+		hl = elem.children[1].textContent;
+		sum = elem.children[2].textContent;
+		pub = this.renderPub(elem.children[3].textContent);
+		upd = elem.children[4].textContent;
+		console.log(elem.children[5]);
+		auth = elem.children[5].firstElementChild.textContent;
+		ftext = elem.children[8].textContent;
+
+		if(! this.incomingNews.has(id)) {
+		    telegram = {"id":id, "headline": hl, "summary": sum,
+				"published": pub, "updated": upd,
+				"author": auth, "full-text": ftext,
+				"rendered": "<i>" + pub + "</i> | <b>" + hl + "</b><br>" +
+				this.stripHTML(sum)};
+
+		    telegrams = telegrams.concat([telegram]);
+		}
+	    }
+	    return telegrams;
+	},
+	renderPub: function(d) {
+	    return d.replace('T', ' ').substring(0, d.length-9);
 	},
 	translate: function(s) {
 	    return s.toLocaleUpperCase().replace(/:/g, ' - ').replace(/"/g, '/');
