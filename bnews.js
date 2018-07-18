@@ -153,7 +153,7 @@ var app = new Vue({
 	    diff = JsDiff.diffChars(this.smessage, this.message);
 	    console.log(diff);
 	    this.dmessage = JsDiff.convertChangesToXML(diff);
-	    this.rcvNews = this.rcvNews.concat([this.currNews]);
+	    this.rcvNews = [this.currNews].concat(this.rcvNews);
 	},
 	start: function(e) {
 	    this.message = '';
