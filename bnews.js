@@ -189,8 +189,8 @@ var app = new Vue({
 	    }
 	},
 	renderTelegram: function(t) {
-	    m = 'QTC DE SR SR = ' + t.headline.toUpperCase() + " = " +
-		this.stripHTML(t.summary).toUpperCase() + " = +";
+	    m = 'QTC DE SR SR = ' + this.translate(t.headline) + " = " +
+		this.translate(this.stripHTML(t.summary)) + " = +";
 
 	    return m;
 	},
@@ -260,7 +260,7 @@ var app = new Vue({
 	    return d.replace('T', ' ').substring(0, d.length-9);
 	},
 	translate: function(s) {
-	    return s.toLocaleUpperCase().replace(/:/g, ' - ').replace(/"/g, '/');
+	    return s.toLocaleUpperCase().replace(/:/g, ' - ').replace(/["()”]/g, '/').replace(/–/g, '-');
 	}
     }
 });
