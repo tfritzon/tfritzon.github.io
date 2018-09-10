@@ -65,6 +65,78 @@ mtLektioner = [
 	}
      ]
     },
+    {"lektion": "02",
+     "sektioner": [
+	{"sektion": "Nya tecken 1",
+	 "text":"IIIII IIIII IIIII IIIII IIIII\n" +
+	 "XXXXX XXXXX XXXXX XXXXX XXXXX\n"
+	},
+	{"sektion": "Bokstäver 1",
+	 "text":"=\n" +
+	 "IIIII XXXXX IIIIX XXXXI IIIXX XXIII XXXII IXXXI IIXXX\n" +
+	 "IIXXI IXXII XXIIX XIIXX IIXXI IXXIX IXIIX =\n"
+	},
+	{"sektion": "Bokstäver 2",
+	 "text":"=\n" +
+	 "OOII NNXX IIEE XXOO LLII EEXX IIOO LLXX IINN IIXX OOXX\n" +
+	 "NNII XXLL OOII XXEE XXOO IILL EEXX OOII XXNN LLXX IIEE\n" +
+	 "XXII XXEE NNII EEII XXLL XXNN IIEE LLII LLXX NNII OOII\n" +
+	 "XXLL IINN =\n"
+	},
+	{"sektion": "Bokstäver 3",
+	 "text":"=\n" +
+	 "XXEE LLOO NNII EEXX LLNN XXOO NNII EEXX OOLL IINN XXEE\n" +
+	 "LLOO EEII NNLL XXEE OONN IILL OOEE LLXX NNII IIXX OOLL\n" +
+	 "EEOO LLNN IILL EEII XXLL NNII OOEE IIXX NNOO LLXX IIEE\n" +
+	 "XXNN OOLL =\n"
+	},
+	{"sektion": "Bokstäver 4",
+	 "text":"=\n" +
+	 "OOE EOO XXN NLL EEN NOO IIX XLL IIE EEL XXO OON NNL\n" +
+	 "LEE OOI IXX OOE ENN XXL LII NNO OLL XXE EII EEN NII\n" +
+	 "LLO OXX NNE EII LLO OXX XXN NII LLO OEE LLE EII XXO\n" +
+	 "ONN OOX XNN IIO OXX LLE =\n"
+	},
+	{"sektion": "Bokstäver 5",
+	 "text":"=\n" +
+	 "OXO ILI NEN LOL EIE XNX INI LOL XEX ONO ELE NON XNX\n" +
+	 "LEL NXN EIE ILI OIO EXE OLO IOI XNX NEN LIL NON ENE\n" +
+	 "IXI LEL OLO XIX LXL OIO NEN XOX ILI ENE IEI NLN EXE\n" +
+	 "ONO XIX NIN EXE LIL XOX =\n"
+	},
+	{"sektion": "Bokstäver 6",
+	 "text":"=\n" +
+	 "OOE EII XXN NLL EEN NOO IIX XLL IIE ELL XXO ONN NNL\n" +
+	 "LEE OOI IXX OOE ENN XXL LII NNO OLL XXE EII EEN NII\n" +
+	 "LLO OXX NNE EII LLO OXX XXN NII LLO OEE LLE EII XXO\n" +
+	 "ONN OOX XNN IIO OXX LLE =\n"
+	},
+	{"sektion": "Bokstäver 7",
+	 "text":"=\n" +
+	 "ELX ONI IEN XOL XNO LIE NIX OLI EXN IOL EEX NLO LIE\n" +
+	 "XNX EOI OLN IEN IEL NXO XLE XNL OIE EXO LNO IEN OLI\n" +
+	 "ONX LOE NIL EIO LXX ENX OLI IEN IOL XIN IXE NIL EON\n" +
+	 "XXO LEI XON IEL OIX NLE =\n"
+	},
+	{"sektion": "Bokstäver 8",
+	 "text":"=\n" +
+	 "NNL LEE OOI IXX EEI INN OOX XLL OOL LXX EEN NII XXN\n" +
+	 "NLL IIO OEE NNO OLL IIE EXX NNX XII IEI XEX ILI ONO\n" +
+	 "XOX IEI LNL OLO EXE NIN ELE IOI XNX OEO LXL NIN XIX\n" +
+	 "NON LEL OLO IEI XLX ELE\n"
+	},
+	{"sektion": "Ord 1",
+	 "text":"=\n" +
+	 "LENNE = OLLE = NIX = OXEL = INLE = OXLIN = LEO =\n" +
+	 "LEX = ILLE = LIXEN =\n"
+	},
+	{"sektion": "Ord 2",
+	 "text":"=\n" +
+	 "LENNE = OLLE = NIX = OXEL = INLE = OXLIN = LEO =\n" +
+	 "LEX = ILLE = LIXEN = +\n"
+	}
+     ]
+    },    
     {"lektion": "10",
      "sektioner": [
 	{"sektion": "Bokstäver 1",
