@@ -21,8 +21,7 @@ var app = new Vue({
 	morsetab: morseTable,
 	calltab: callsignTable,
 	senttab: [],
-	resultColor: "black",
-	repeated: false
+	resultColor: "black"
     },
     created: function() {
 	this.audio = new AudioContext();
@@ -104,10 +103,7 @@ var app = new Vue({
 	repeat: function(e) {
 	    console.log(e);
 	    e.preventDefault();
-	    if (!this.repeated) {
-		this.send(this.qcall);
-		this.repeated = true;
-	    }
+	    this.send(this.qcall);
 	},
 	runner: function(e) {
 	    var t = e.playbackTime;
@@ -184,6 +180,7 @@ var app = new Vue({
 	    e.preventDefault();
 	    this.play = !this.play;
 	    if (this.play && this.morseQueue.length <= 0) {
+		this.audio.resume();
 		this.send(this.qcall);
 	    }
 	},
